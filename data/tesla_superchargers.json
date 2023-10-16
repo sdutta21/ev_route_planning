@@ -1,0 +1,5053 @@
+{
+    "data": [
+        {
+            "station_name": "Athens, AL Supercharger",
+            "city": "Athens",
+            "state": "AL",
+            "zip_code": "No zipcode",
+            "street_address": "21282 Athens-Limestone Blvd",
+            "lat_long": [
+                34.7845487,
+                -86.9419812
+            ]
+        },
+        {
+            "station_name": "Auburn Alabama Supercharger",
+            "city": "Auburn",
+            "state": "AL",
+            "zip_code": "36830",
+            "street_address": "1627 Opelika Road",
+            "lat_long": [
+                32.6269724,
+                -85.4477676991075
+            ]
+        },
+        {
+            "station_name": "Greenville Supercharger",
+            "city": "Greenville",
+            "state": "AL",
+            "zip_code": "36037",
+            "street_address": "219 Interstate Drive",
+            "lat_long": [
+                31.8561278,
+                -86.63525999755709
+            ]
+        },
+        {
+            "station_name": "Mobile Supercharger",
+            "city": "Mobile",
+            "state": "AL",
+            "zip_code": "36606",
+            "street_address": "3201 Airport Blvd",
+            "lat_long": [
+                30.6752052,
+                -88.1195197
+            ]
+        },
+        {
+            "station_name": "Oxford, AL Supercharger",
+            "city": "Oxford",
+            "state": "AL",
+            "zip_code": "36203-0000",
+            "street_address": "1105 Oxford Exchange Blvd",
+            "lat_long": [
+                33.6100022,
+                -85.7820781
+            ]
+        },
+        {
+            "station_name": "Steele Supercharger",
+            "city": "Steele",
+            "state": "AL",
+            "zip_code": "35987",
+            "street_address": "905 Steele Station Road",
+            "lat_long": [
+                33.9338147,
+                -86.1915535
+            ]
+        },
+        {
+            "station_name": "Buckeye, AZ Supercharger",
+            "city": "Buckeye",
+            "state": "AZ",
+            "zip_code": "85326",
+            "street_address": "416 S Watson Rd",
+            "lat_long": [
+                33.4432827,
+                -112.55707870834142
+            ]
+        },
+        {
+            "station_name": "Casa Grande, AZ Supercharger",
+            "city": "Casa Grande",
+            "state": "AZ",
+            "zip_code": "85194",
+            "street_address": "2453 E. Florence Blvd.",
+            "lat_long": [
+                32.8790773,
+                -111.68154796502047
+            ]
+        },
+        {
+            "station_name": "Cordes Lakes, AZ Supercharger",
+            "city": "Mayer",
+            "state": "AZ",
+            "zip_code": "86333",
+            "street_address": "14925 Cordes Lakes Rd",
+            "lat_long": [
+                34.3274507,
+                -112.1184462
+            ]
+        },
+        {
+            "station_name": "Ehrenberg, AZ Supercharger",
+            "city": "Ehrenberg",
+            "state": "AZ",
+            "zip_code": "85334",
+            "street_address": "11 Frontage Road North",
+            "lat_long": [
+                33.6020036,
+                -114.521941
+            ]
+        },
+        {
+            "station_name": "Flagstaff, AZ Supercharger",
+            "city": "Flagstaff",
+            "state": "AZ",
+            "zip_code": "86001",
+            "street_address": "2650 South Beulah Blvd",
+            "lat_long": [
+                35.17463405,
+                -111.66277352491228
+            ]
+        },
+        {
+            "station_name": "Gila Bend, AZ Supercharger",
+            "city": "Gila Bend",
+            "state": "AZ",
+            "zip_code": "85337",
+            "street_address": "826 W Pima St.",
+            "lat_long": [
+                32.9437088,
+                -112.734067
+            ]
+        },
+        {
+            "station_name": "Holbrook, AZ Supercharger",
+            "city": "Holbrook",
+            "state": "AZ",
+            "zip_code": "86025",
+            "street_address": "2096 Navajo Blvd",
+            "lat_long": [
+                34.9229518,
+                -110.145581
+            ]
+        },
+        {
+            "station_name": "Page Supercharger",
+            "city": "Page",
+            "state": "AZ",
+            "zip_code": "86040",
+            "street_address": "600 Clubhouse Drive",
+            "lat_long": [
+                36.92453935,
+                -111.46846780022341
+            ]
+        },
+        {
+            "station_name": "Payson, AZ Supercharger",
+            "city": "Payson",
+            "state": "AZ",
+            "zip_code": "85541",
+            "street_address": "142 AZ-260",
+            "lat_long": [
+                34.2422059,
+                -111.32118285383388
+            ]
+        },
+        {
+            "station_name": "Phoenix, AZ - Agua Fria Freeway Supercharger",
+            "city": "Phoenix",
+            "state": "No state",
+            "zip_code": "85027-3938",
+            "street_address": "2805 Agua Fria Fwy",
+            "lat_long": [
+                33.5001279,
+                -112.2665302
+            ]
+        },
+        {
+            "station_name": "Phoenix, AZ - East Camelback Road Supercharger",
+            "city": "Phoenix",
+            "state": "No state",
+            "zip_code": "85016-4254",
+            "street_address": "2502 East Camelback Road",
+            "lat_long": [
+                40.6179773,
+                -111.81981178228537
+            ]
+        },
+        {
+            "station_name": "Scottsdale, AZ - N. Scottsdale Road Supercharger",
+            "city": "Scottsdale",
+            "state": "AZ",
+            "zip_code": "85254-2421",
+            "street_address": "15059 N. Scottsdale Rd",
+            "lat_long": [
+                33.5210939,
+                -111.9258569
+            ]
+        },
+        {
+            "station_name": "Scottsdale, AZ - North Kierland Blvd. Supercharger",
+            "city": "Scottsdale",
+            "state": "AZ",
+            "zip_code": "85254",
+            "street_address": "15205 North Kierland Boulevard",
+            "lat_long": [
+                33.625221777612644,
+                -111.93018043538473
+            ]
+        },
+        {
+            "station_name": "Sedona, AZ Supercharger",
+            "city": "Sedona",
+            "state": "AZ",
+            "zip_code": "86351",
+            "street_address": "7000 AZ-179",
+            "lat_long": [
+                34.764861,
+                -111.765999
+            ]
+        },
+        {
+            "station_name": "Tacna, AZ Supercharger",
+            "city": "Tacna",
+            "state": "AZ",
+            "zip_code": "95352",
+            "street_address": "9250 South Avenue 40E",
+            "lat_long": [
+                32.6902087,
+                -113.9540165
+            ]
+        },
+        {
+            "station_name": "Tucson, AZ - East Skyline Drive Supercharger",
+            "city": "Tucson",
+            "state": "AZ",
+            "zip_code": "85718",
+            "street_address": "2905 East Skyline Drive",
+            "lat_long": [
+                32.3256044,
+                -110.930986
+            ]
+        },
+        {
+            "station_name": "Tucson, AZ Supercharger",
+            "city": "Tucson",
+            "state": "AZ",
+            "zip_code": "85747",
+            "street_address": "9255 S Rita Rd",
+            "lat_long": [
+                32.08444055,
+                -110.80332433435082
+            ]
+        },
+        {
+            "station_name": "Tusayan, AZ Supercharger",
+            "city": "Tusayan",
+            "state": "AZ",
+            "zip_code": "No zipcode",
+            "street_address": "149 State Route 64",
+            "lat_long": [
+                35.9694472,
+                -112.1277027
+            ]
+        },
+        {
+            "station_name": "White Hills, AZ Supercharger",
+            "city": "Willow Beach",
+            "state": "AZ",
+            "zip_code": "86445",
+            "street_address": "12683 White Hills Road",
+            "lat_long": [
+                35.7000784,
+                -114.476611
+            ]
+        },
+        {
+            "station_name": "Wickenburg, AZ Supercharger",
+            "city": "Wickenburg",
+            "state": "AZ",
+            "zip_code": "85390",
+            "street_address": "155 N Tegner",
+            "lat_long": [
+                55.70439115,
+                13.198146337378304
+            ]
+        },
+        {
+            "station_name": "Willcox, AZ Supercharger",
+            "city": "Willcox",
+            "state": "No state",
+            "zip_code": "85643-1022",
+            "street_address": "1251 Virginia Avenue",
+            "lat_long": [
+                42.321990863414634,
+                -82.9481315707317
+            ]
+        },
+        {
+            "station_name": "Little Rock Supercharger",
+            "city": "Little Rock",
+            "state": "AR",
+            "zip_code": "No zipcode",
+            "street_address": "11201 Bass Pro Parkway",
+            "lat_long": [
+                34.6614457,
+                -92.4103736
+            ]
+        },
+        {
+            "station_name": "Lowell, AR Supercharger",
+            "city": "Lowell",
+            "state": "AR",
+            "zip_code": "72745",
+            "street_address": "898 W Monroe Ave",
+            "lat_long": [
+                36.184976,
+                -115.152721
+            ]
+        },
+        {
+            "station_name": "Ozark, AR Supercharger",
+            "city": "Ozark",
+            "state": "AR",
+            "zip_code": "72949",
+            "street_address": "3202 Pence Lane",
+            "lat_long": [
+                39.211465,
+                -94.478718
+            ]
+        },
+        {
+            "station_name": "Anaheim, CA - East Katella Avenue Supercharger",
+            "city": "Anaheim",
+            "state": "CA",
+            "zip_code": "92806",
+            "street_address": "2404 East Katella Avenue",
+            "lat_long": [
+                33.80493145616488,
+                -117.88396321421924
+            ]
+        },
+        {
+            "station_name": "Antioch, CA Supercharger",
+            "city": "Antioch",
+            "state": "CA",
+            "zip_code": "94531",
+            "street_address": "5769 Lone Tree Way",
+            "lat_long": [
+                37.961804405159306,
+                -121.75520427248871
+            ]
+        },
+        {
+            "station_name": "Atascadero, CA Supercharger",
+            "city": "Atascadero",
+            "state": "CA",
+            "zip_code": "93422",
+            "street_address": "6950 El Camino Real",
+            "lat_long": [
+                35.4862836,
+                -120.6655401
+            ]
+        },
+        {
+            "station_name": "Baker, CA Supercharger",
+            "city": "Baker",
+            "state": "CA",
+            "zip_code": "92309-0000",
+            "street_address": "71808 Baker Blvd",
+            "lat_long": [
+                35.262816,
+                -116.0804839
+            ]
+        },
+        {
+            "station_name": "Bakersfield Supercharger",
+            "city": "Bakersfield",
+            "state": "CA",
+            "zip_code": "93314",
+            "street_address": "29541 Stockdale Hwy",
+            "lat_long": [
+                35.354515,
+                -119.33125407562889
+            ]
+        },
+        {
+            "station_name": "Barstow Supercharger",
+            "city": "Barstow",
+            "state": "CA",
+            "zip_code": "92311",
+            "street_address": "2812 Lenwood Road",
+            "lat_long": [
+                34.84981245,
+                -117.08491821397018
+            ]
+        },
+        {
+            "station_name": "Big Sur, CA - Ventana Supercharger",
+            "city": "Big Sur",
+            "state": "CA",
+            "zip_code": "93920",
+            "street_address": "48123 Highway 1",
+            "lat_long": [
+                30.257979,
+                47.6080101
+            ]
+        },
+        {
+            "station_name": "Bishop, CA Supercharger",
+            "city": "Bishop",
+            "state": "CA",
+            "zip_code": "93514",
+            "street_address": "151 South Warren Street",
+            "lat_long": [
+                40.2189280800769,
+                -74.76613151021452
+            ]
+        },
+        {
+            "station_name": "Buellton, CA Supercharger",
+            "city": "Buellton",
+            "state": "CA",
+            "zip_code": "93427",
+            "street_address": "555 McMurray Rd",
+            "lat_long": [
+                42.137865122200246,
+                -74.69204883532558
+            ]
+        },
+        {
+            "station_name": "Buena Park",
+            "city": "Buena Park",
+            "state": "CA",
+            "zip_code": "90621",
+            "street_address": "6692 Auto Center Drive",
+            "lat_long": [
+                33.86364905000001,
+                -117.99054339898883
+            ]
+        },
+        {
+            "station_name": "Buena Park, CA - Beach Boulevard Supercharger",
+            "city": "Buena Park",
+            "state": "CA",
+            "zip_code": "90621",
+            "street_address": "6940 Beach Boulevard",
+            "lat_long": [
+                33.8591534,
+                -117.9972723
+            ]
+        },
+        {
+            "station_name": "Burbank - North Third Street",
+            "city": "Burbank",
+            "state": "CA",
+            "zip_code": "91502",
+            "street_address": "495 North Third Street",
+            "lat_long": [
+                32.49706673469388,
+                -94.73268804081633
+            ]
+        },
+        {
+            "station_name": "Buttonwillow Supercharger",
+            "city": "Buttonwillow",
+            "state": "CA",
+            "zip_code": "93206",
+            "street_address": "20673 Tracy Ave.",
+            "lat_long": [
+                35.4002108,
+                -119.397464
+            ]
+        },
+        {
+            "station_name": "Cabazon Supercharger",
+            "city": "Cabazon",
+            "state": "CA",
+            "zip_code": "92230",
+            "street_address": "48400 Seminole Drive",
+            "lat_long": [
+                33.93246563013882,
+                -116.82433909129736
+            ]
+        },
+        {
+            "station_name": "Carlsbad, CA Supercharger",
+            "city": "Carlsbad",
+            "state": "CA",
+            "zip_code": "92009-8562",
+            "street_address": "7710-7770 El Camino Real",
+            "lat_long": [
+                33.0842037,
+                -117.266367
+            ]
+        },
+        {
+            "station_name": "Cerritos, CA Supercharger",
+            "city": "Cerritos",
+            "state": "CA",
+            "zip_code": "90703-5422",
+            "street_address": "239 Los Cerritos Center",
+            "lat_long": [
+                33.86202675,
+                -118.094012806359
+            ]
+        },
+        {
+            "station_name": "Chico, CA Supercharger",
+            "city": "Chico",
+            "state": "CA",
+            "zip_code": "95928",
+            "street_address": "1951 East 20th Street",
+            "lat_long": [
+                40.69132002,
+                -75.49354065142857
+            ]
+        },
+        {
+            "station_name": "Chula Vista, CA Supercharger",
+            "city": "Chula Vista",
+            "state": "CA",
+            "zip_code": "91914",
+            "street_address": "910 Eastlake Parkway",
+            "lat_long": [
+                38.1609847,
+                -92.6656298
+            ]
+        },
+        {
+            "station_name": "Concord, CA Supercharger",
+            "city": "Concord",
+            "state": "No state",
+            "zip_code": "94520",
+            "street_address": "2001 Diamond Blvd",
+            "lat_long": [
+                37.9702201,
+                -122.0584926
+            ]
+        },
+        {
+            "station_name": "Corning, CA Supercharger",
+            "city": "Corning",
+            "state": "CA",
+            "zip_code": "96021",
+            "street_address": "950 Hwy 99 W",
+            "lat_long": [
+                39.5114053,
+                -122.193866
+            ]
+        },
+        {
+            "station_name": "Corona, CA Supercharger",
+            "city": "Corona",
+            "state": "CA",
+            "zip_code": "92881-4631",
+            "street_address": "2615 Tuscany Street",
+            "lat_long": [
+                34.1070525,
+                -117.5000129
+            ]
+        },
+        {
+            "station_name": "Corte Madera, CA Supercharger",
+            "city": "Corte Madera",
+            "state": "CA",
+            "zip_code": "94925",
+            "street_address": "1618 Redwood Highway",
+            "lat_long": [
+                40.80367603046802,
+                -124.15418225456858
+            ]
+        },
+        {
+            "station_name": "Cupertino, CA Supercharger",
+            "city": "Cupertino",
+            "state": "No state",
+            "zip_code": "95014-0000",
+            "street_address": "19500 Vallco Parkway",
+            "lat_long": [
+                37.3244499,
+                -122.0090361
+            ]
+        },
+        {
+            "station_name": "Daly City, CA Supercharger",
+            "city": "Daly City",
+            "state": "CA",
+            "zip_code": "94015",
+            "street_address": "3 Serramonte Center",
+            "lat_long": [
+                37.672249300000004,
+                -122.47062917829632
+            ]
+        },
+        {
+            "station_name": "Downey, CA - Lakewood Boulevard Supercharger",
+            "city": "Downey",
+            "state": "CA",
+            "zip_code": "90240-3307",
+            "street_address": "9500 Lakewood Boulevard",
+            "lat_long": [
+                33.950721,
+                -118.115295
+            ]
+        },
+        {
+            "station_name": "Downey, CA - Stonewood Street Supercharger",
+            "city": "Downey",
+            "state": "CA",
+            "zip_code": "90241",
+            "street_address": "251 Stonewood Street",
+            "lat_long": [
+                33.93720871906354,
+                -118.12273791973244
+            ]
+        },
+        {
+            "station_name": "Dublin-Amador Plaza",
+            "city": "Dublin",
+            "state": "CA",
+            "zip_code": "94568",
+            "street_address": "6701 Amador Plaza Road",
+            "lat_long": [
+                37.703183,
+                -121.925327
+            ]
+        },
+        {
+            "station_name": "East Palo Alto, CA Supercharger",
+            "city": "Palo Alto",
+            "state": "CA",
+            "zip_code": "94303",
+            "street_address": "1771 East Bayshore Road",
+            "lat_long": [
+                37.4885667,
+                -122.2087977
+            ]
+        },
+        {
+            "station_name": "El Centro Supercharger",
+            "city": "El Centro",
+            "state": "CA",
+            "zip_code": "92243",
+            "street_address": "3551 S Dogwood Rd",
+            "lat_long": [
+                32.7608432,
+                -115.5324438
+            ]
+        },
+        {
+            "station_name": "El Cerrito, CA Supercharger",
+            "city": "El Cerrito",
+            "state": "CA",
+            "zip_code": "94530",
+            "street_address": "280 El Cerrito Plaza",
+            "lat_long": [
+                37.899222,
+                -122.2982409
+            ]
+        },
+        {
+            "station_name": "Elk Grove, CA - Elk Grove Blvd Supercharger",
+            "city": "Elk Grove",
+            "state": "CA",
+            "zip_code": "95758",
+            "street_address": "8451 Elk Grove Boulevard",
+            "lat_long": [
+                38.40900232432433,
+                -121.39136683783784
+            ]
+        },
+        {
+            "station_name": "Emeryville, CA - Powell Street Plaza Supercharger",
+            "city": "Emeryville",
+            "state": "CA",
+            "zip_code": "94608",
+            "street_address": "5795 Christie Avenue",
+            "lat_long": [
+                37.83885003361244,
+                -122.29496435659455
+            ]
+        },
+        {
+            "station_name": "Emeryville, CA Supercharger",
+            "city": "Emeryville",
+            "state": "CA",
+            "zip_code": "94608",
+            "street_address": "5959 Shellmound Street",
+            "lat_long": [
+                37.8414974,
+                -122.2940393
+            ]
+        },
+        {
+            "station_name": "Eureka Supercharger",
+            "city": "Eureka",
+            "state": "CA",
+            "zip_code": "95501",
+            "street_address": "3300 Broadway St.",
+            "lat_long": [
+                40.7796486,
+                -124.19023307838998
+            ]
+        },
+        {
+            "station_name": "Fairfield, CA - Holiday Lane Supercharger",
+            "city": "Fairfield",
+            "state": "CA",
+            "zip_code": "94534",
+            "street_address": "1350 Holiday Lane",
+            "lat_long": [
+                38.2559432,
+                -122.0653944
+            ]
+        },
+        {
+            "station_name": "Fairfield, CA - Travis Blvd Supercharger",
+            "city": "Fairfield",
+            "state": "CA",
+            "zip_code": "94533-3432",
+            "street_address": "1350 Travis Blvd",
+            "lat_long": [
+                38.260179949999994,
+                -122.05389013759984
+            ]
+        },
+        {
+            "station_name": "Firebaugh, CA Supercharger",
+            "city": "Firebaugh",
+            "state": "CA",
+            "zip_code": "93622",
+            "street_address": "46272 West Panoche Road",
+            "lat_long": [
+                36.6398034,
+                -120.62549192251345
+            ]
+        },
+        {
+            "station_name": "Fish Camp Supercharger",
+            "city": "Fish Camp",
+            "state": "CA",
+            "zip_code": "93623",
+            "street_address": "1122 Highway 41",
+            "lat_long": [
+                40.524311250000004,
+                -97.6329383125
+            ]
+        },
+        {
+            "station_name": "Folsom, CA - Iron Point Road Supercharger",
+            "city": "Folsom",
+            "state": "CA",
+            "zip_code": "95630",
+            "street_address": "220 Iron Point Rd",
+            "lat_long": [
+                38.6423254,
+                -121.188171
+            ]
+        },
+        {
+            "station_name": "Folsom, CA - Palladio Parkway Supercharger",
+            "city": "Folsom",
+            "state": "CA",
+            "zip_code": "95630",
+            "street_address": "220 Palladio Parkway",
+            "lat_long": [
+                38.64895628938732,
+                -121.12169698899551
+            ]
+        },
+        {
+            "station_name": "Fontana, CA Supercharger",
+            "city": "Fontana",
+            "state": "CA",
+            "zip_code": "92336",
+            "street_address": "152234 Summit Avenue",
+            "lat_long": [
+                34.1510216,
+                -117.471145
+            ]
+        },
+        {
+            "station_name": "Fountain Valley Supercharger",
+            "city": "Fountain Valley",
+            "state": "CA",
+            "zip_code": "92708",
+            "street_address": "17940 Newhope St",
+            "lat_long": [
+                33.70309295,
+                -117.93413128101469
+            ]
+        },
+        {
+            "station_name": "Fremont",
+            "city": "Fremont",
+            "state": "CA",
+            "zip_code": "94538",
+            "street_address": "45500 Fremont Blvd",
+            "lat_long": [
+                37.4927665,
+                -121.9415479219787
+            ]
+        },
+        {
+            "station_name": "Fremont, CA - 39201 Fremont Blvd Supercharger",
+            "city": "Fremont",
+            "state": "CA",
+            "zip_code": "94538-1301",
+            "street_address": "39201 Fremont Blvd",
+            "lat_long": [
+                37.544911850000005,
+                -121.98524009643721
+            ]
+        },
+        {
+            "station_name": "Fremont, CA - Pacific Commons Boulevard Supercharger",
+            "city": "Fremont",
+            "state": "CA",
+            "zip_code": "94538",
+            "street_address": "43950 Pacific Commons Boulevard",
+            "lat_long": [
+                37.5021763,
+                -121.9679701
+            ]
+        },
+        {
+            "station_name": "Fresno Supercharger",
+            "city": "Fresno",
+            "state": "CA",
+            "zip_code": "93722",
+            "street_address": "6709 N Riverside Dr",
+            "lat_long": [
+                36.8357048,
+                -119.910686
+            ]
+        },
+        {
+            "station_name": "Fresno, CA - North Riverside Drive Supercharger",
+            "city": "Fresno",
+            "state": "CA",
+            "zip_code": "93722",
+            "street_address": "5001 North Riverside Drive",
+            "lat_long": [
+                32.836398700000004,
+                -97.30239602157673
+            ]
+        },
+        {
+            "station_name": "Gilroy, CA - Camino Arroyo Supercharger",
+            "city": "Gilroy",
+            "state": "CA",
+            "zip_code": "Gilroy",
+            "street_address": "6705 Camino Arroyo",
+            "lat_long": [
+                36.99995505,
+                -121.55460169134597
+            ]
+        },
+        {
+            "station_name": "Gilroy, CA Supercharger",
+            "city": "Gilroy",
+            "state": "CA",
+            "zip_code": "95020",
+            "street_address": "Gilroy Premium Outlets",
+            "lat_long": [
+                37.02530135,
+                -121.5653753855139
+            ]
+        },
+        {
+            "station_name": "Glendale, CA Supercharger",
+            "city": "Glendale",
+            "state": "CA",
+            "zip_code": "91210",
+            "street_address": "899 Americana Way",
+            "lat_long": [
+                34.1445749,
+                -118.257714
+            ]
+        },
+        {
+            "station_name": "Goleta, CA Supercharger",
+            "city": "Goleta",
+            "state": "CA",
+            "zip_code": "93117",
+            "street_address": "7004 Marketplace Drive",
+            "lat_long": [
+                44.3424332,
+                -69.7882003
+            ]
+        },
+        {
+            "station_name": "Groveland Supercharger",
+            "city": "Groveland",
+            "state": "CA",
+            "zip_code": "95321",
+            "street_address": "11875 Ponderosa Lane",
+            "lat_long": [
+                37.83868235,
+                -120.23132552091243
+            ]
+        },
+        {
+            "station_name": "Harris Ranch Supercharger",
+            "city": "Coalinga",
+            "state": "CA",
+            "zip_code": "93210",
+            "street_address": "24505 W Dorris Ave",
+            "lat_long": [
+                36.2528044,
+                -120.238494
+            ]
+        },
+        {
+            "station_name": "Hawthorne, CA - El Segundo Boulevard Supercharger",
+            "city": "Hawthorne",
+            "state": "CA",
+            "zip_code": "90250",
+            "street_address": "4427 West El Segundo Boulevard",
+            "lat_long": [
+                33.9173247,
+                -118.35368243134968
+            ]
+        },
+        {
+            "station_name": "Hawthorne, CA - West 120th Street Supercharger",
+            "city": "Hawthorne",
+            "state": "CA",
+            "zip_code": "90250",
+            "street_address": "2700 West 120th Avenue",
+            "lat_long": [
+                39.913844,
+                -105.015684
+            ]
+        },
+        {
+            "station_name": "Hayward, CA Supercharger",
+            "city": "Hayward",
+            "state": "CA",
+            "zip_code": "94541",
+            "street_address": "19661 Hesperian Boulevard",
+            "lat_long": [
+                37.66625135,
+                -122.12100523872758
+            ]
+        },
+        {
+            "station_name": "Hermosa Beach, CA Supercharger",
+            "city": "Hermosa Beach",
+            "state": "CA",
+            "zip_code": "90254",
+            "street_address": "710 16th St.",
+            "lat_long": [
+                42.5964882,
+                -89.650156
+            ]
+        },
+        {
+            "station_name": "Hollister, CA Supercharger",
+            "city": "Hollister",
+            "state": "CA",
+            "zip_code": "95023-9541",
+            "street_address": "10021 Pacheco Pass Hwy",
+            "lat_long": [
+                37.0057625,
+                -121.363085
+            ]
+        },
+        {
+            "station_name": "Inyokern Supercharger",
+            "city": "Inyokern",
+            "state": "CA",
+            "zip_code": "93527",
+            "street_address": "1353 Brown Road",
+            "lat_long": [
+                43.863370534081476,
+                -73.2840241978109
+            ]
+        },
+        {
+            "station_name": "Irvine, CA - Michelson Drive Supercharger",
+            "city": "Irvine",
+            "state": "CA",
+            "zip_code": "92612-0626",
+            "street_address": "3021 Michelson Drive",
+            "lat_long": [
+                33.67296615,
+                -117.84503528716803
+            ]
+        },
+        {
+            "station_name": "Jackson, CA Supercharger",
+            "city": "Jackson",
+            "state": "CA",
+            "zip_code": "95642",
+            "street_address": "31 CA-88",
+            "lat_long": [
+                38.34822105,
+                -120.77535674192835
+            ]
+        },
+        {
+            "station_name": "Kettleman City, CA Supercharger",
+            "city": "Kettleman City",
+            "state": "CA",
+            "zip_code": "93239",
+            "street_address": "27675 Bernard Drive",
+            "lat_long": [
+                35.9877367,
+                -119.96195787450321
+            ]
+        },
+        {
+            "station_name": "Lake Elsinore, CA Supercharger",
+            "city": "Lake Elsinore",
+            "state": "CA",
+            "zip_code": "92530",
+            "street_address": "17600 Collier Avenue",
+            "lat_long": [
+                33.6986965,
+                -117.349391
+            ]
+        },
+        {
+            "station_name": "Lincoln, CA - Groveland Lane Supercharger",
+            "city": "Lincoln",
+            "state": "CA",
+            "zip_code": "95648",
+            "street_address": "950 Groveland Lane",
+            "lat_long": [
+                38.8696451,
+                -121.3041228
+            ]
+        },
+        {
+            "station_name": "Livermore, CA Supercharger",
+            "city": "Livermore",
+            "state": "CA",
+            "zip_code": "94551",
+            "street_address": "2774 Livermore Outlets Drive",
+            "lat_long": [
+                37.6989923,
+                -121.84417312094075
+            ]
+        },
+        {
+            "station_name": "Los Altos, CA Supercharger",
+            "city": "Los Altos",
+            "state": "CA",
+            "zip_code": "94022",
+            "street_address": "4800 El Camino Real",
+            "lat_long": [
+                32.37179434144883,
+                -106.80553976773237
+            ]
+        },
+        {
+            "station_name": "Los Angeles, CA - Francisco Street Supercharger",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip_code": "90015",
+            "street_address": "899 South Francisco Street",
+            "lat_long": [
+                26.75158,
+                -80.9224979
+            ]
+        },
+        {
+            "station_name": "Los Gatos, CA Supercharger",
+            "city": "Los Gatos",
+            "state": "CA",
+            "zip_code": "95032",
+            "street_address": "142 Los Gatos-Saratoga Road",
+            "lat_long": [
+                37.228716765306125,
+                -121.98077528571429
+            ]
+        },
+        {
+            "station_name": "Malibu, CA - Whole Foods and the Park Supercharger",
+            "city": "Malibu",
+            "state": "CA",
+            "zip_code": "90265",
+            "street_address": "23475 Civic Center Way",
+            "lat_long": [
+                34.03596377516779,
+                -118.69037222818793
+            ]
+        },
+        {
+            "station_name": "Mammoth Lakes Supercharger",
+            "city": "Mammoth Lakes",
+            "state": "CA",
+            "zip_code": "93546",
+            "street_address": "1475 Tavern Road",
+            "lat_long": [
+                39.47787174542082,
+                -77.97905744030537
+            ]
+        },
+        {
+            "station_name": "Manhattan Beach, CA Supercharger",
+            "city": "Manhattan Beach",
+            "state": "CA",
+            "zip_code": "90266",
+            "street_address": "3200 North Sepulveda Boulevard",
+            "lat_long": [
+                33.898423290134154,
+                -118.39591797642977
+            ]
+        },
+        {
+            "station_name": "Manteca Supercharger",
+            "city": "Manteca",
+            "state": "CA",
+            "zip_code": "95337",
+            "street_address": "960 Perimeter Dr",
+            "lat_long": [
+                37.782622,
+                -121.228683
+            ]
+        },
+        {
+            "station_name": "Manteca, CA - Spreckels Avenue Supercharger",
+            "city": "Manteca",
+            "state": "CA",
+            "zip_code": "95336",
+            "street_address": "280 Spreckels Avenue",
+            "lat_long": [
+                37.791582,
+                -121.196711
+            ]
+        },
+        {
+            "station_name": "Marin City, CA - Donahue Street Supercharger",
+            "city": "Marin City",
+            "state": "CA",
+            "zip_code": "94965",
+            "street_address": "190 Donahue Street",
+            "lat_long": [
+                37.8730028,
+                -122.510144
+            ]
+        },
+        {
+            "station_name": "Menifee, CA Supercharger",
+            "city": "Menifee",
+            "state": "CA",
+            "zip_code": "92584",
+            "street_address": "30340 Haun Road",
+            "lat_long": [
+                33.68035992647059,
+                -117.17548042647059
+            ]
+        },
+        {
+            "station_name": "Menlo Park, CA Supercharger",
+            "city": "Menlo Park",
+            "state": "CA",
+            "zip_code": "94025",
+            "street_address": "325 Sharon Park Drive",
+            "lat_long": [
+                37.4232282,
+                -122.197639
+            ]
+        },
+        {
+            "station_name": "Milpitas, CA - Great Mall Supercharger",
+            "city": "Milpitas",
+            "state": "CA",
+            "zip_code": "95035",
+            "street_address": "447 Great Mall Drive",
+            "lat_long": [
+                37.4150522,
+                -121.8968385
+            ]
+        },
+        {
+            "station_name": "Milpitas, CA Supercharger",
+            "city": "Milpitas",
+            "state": "CA",
+            "zip_code": "95035",
+            "street_address": "901 East Calaveras Boulevard",
+            "lat_long": [
+                37.4346113,
+                -121.89190055282646
+            ]
+        },
+        {
+            "station_name": "Mission Viejo, CA Supercharger",
+            "city": "Mission Viejo",
+            "state": "CA",
+            "zip_code": "92691",
+            "street_address": "555 The Shops at Mission Viejo",
+            "lat_long": [
+                33.5580927,
+                -117.66911638082841
+            ]
+        },
+        {
+            "station_name": "Modesto, CA - Sisk Road Supercharger",
+            "city": "Modesto",
+            "state": "CA",
+            "zip_code": "95356",
+            "street_address": "3900 Sisk Road",
+            "lat_long": [
+                37.6960249,
+                -121.0665649
+            ]
+        },
+        {
+            "station_name": "Monterey, CA Supercharger",
+            "city": "Monterey",
+            "state": "CA",
+            "zip_code": "93940-6168",
+            "street_address": "1410 Del Monte Center",
+            "lat_long": [
+                36.5846066,
+                -121.8999087
+            ]
+        },
+        {
+            "station_name": "Monterey-Seaside",
+            "city": "Seaside",
+            "state": "CA",
+            "zip_code": "93955",
+            "street_address": "1901 Del Monte Blvd",
+            "lat_long": [
+                36.6171464,
+                -121.8438533
+            ]
+        },
+        {
+            "station_name": "Morgan Hill, CA Supercharger",
+            "city": "Morgan Hill",
+            "state": "CA",
+            "zip_code": "95037",
+            "street_address": "1061 Cochrane Road",
+            "lat_long": [
+                42.388348101264775,
+                -74.2272343877933
+            ]
+        },
+        {
+            "station_name": "Mountain View Supercharger",
+            "city": "Mountain View",
+            "state": "CA",
+            "zip_code": "94043",
+            "street_address": "1401 N. Shoreline Blvd.",
+            "lat_long": [
+                37.414292950000004,
+                -122.07744876152356
+            ]
+        },
+        {
+            "station_name": "Mt. Shasta Supercharger",
+            "city": "Mt. Shasta",
+            "state": "CA",
+            "zip_code": "96067",
+            "street_address": "111 Morgan Way",
+            "lat_long": [
+                38.7733287,
+                -75.31893825997375
+            ]
+        },
+        {
+            "station_name": "Mt. Shasta, CA - 134 Morgan Way Supercharger",
+            "city": "Mt. Shasta",
+            "state": "CA",
+            "zip_code": "96067-2501",
+            "street_address": "134 Morgan Way",
+            "lat_long": [
+                41.3103748,
+                -122.3162125
+            ]
+        },
+        {
+            "station_name": "Napa, CA - Factory Stores Drive Supercharger",
+            "city": "Napa",
+            "state": "CA",
+            "zip_code": "94558",
+            "street_address": "629 Factory Stores Drive",
+            "lat_long": [
+                38.2960716,
+                -122.3030827
+            ]
+        },
+        {
+            "station_name": "Napa, CA Supercharger",
+            "city": "Napa",
+            "state": "CA",
+            "zip_code": "94558",
+            "street_address": "221 Devlin Rd",
+            "lat_long": [
+                44.3057896120718,
+                -72.79111605449931
+            ]
+        },
+        {
+            "station_name": "Needles Supercharger",
+            "city": "Needles",
+            "state": "CA",
+            "zip_code": "92363",
+            "street_address": "2451 Needles HWY",
+            "lat_long": [
+                34.850882,
+                -114.6243173
+            ]
+        },
+        {
+            "station_name": "Newark, CA Supercharger",
+            "city": "Newark",
+            "state": "CA",
+            "zip_code": "94560",
+            "street_address": "3100 Newpark Mall",
+            "lat_long": [
+                37.5256701,
+                -122.00626803374945
+            ]
+        },
+        {
+            "station_name": "Novato, CA Supercharger",
+            "city": "Novato",
+            "state": "CA",
+            "zip_code": "94945",
+            "street_address": "208 Vintage Way",
+            "lat_long": [
+                38.0891095,
+                -122.551241
+            ]
+        },
+        {
+            "station_name": "Oakland, CA - Hegenberger Rd Supercharger",
+            "city": "Oakland",
+            "state": "CA",
+            "zip_code": "94621",
+            "street_address": "640 Hegenberger Road",
+            "lat_long": [
+                37.75049144897959,
+                -122.19619553061224
+            ]
+        },
+        {
+            "station_name": "Ojai, CA Supercharger",
+            "city": "Ojai",
+            "state": "CA",
+            "zip_code": "93023",
+            "street_address": "987 West Ojai Avenue",
+            "lat_long": [
+                34.44215965,
+                -119.25857437269181
+            ]
+        },
+        {
+            "station_name": "Oxnard Supercharger",
+            "city": "Oxnard",
+            "state": "CA",
+            "zip_code": "93036",
+            "street_address": "2751 Park View Ct",
+            "lat_long": [
+                45.024901349218105,
+                -93.095748
+            ]
+        },
+        {
+            "station_name": "Palm Springs, CA Supercharger",
+            "city": "Palm Springs",
+            "state": "CA",
+            "zip_code": "92262",
+            "street_address": "101 North Museum Drive",
+            "lat_long": [
+                33.8241898,
+                -116.55001297532526
+            ]
+        },
+        {
+            "station_name": "Palmdale, CA Supercharger",
+            "city": "Palmdale",
+            "state": "CA",
+            "zip_code": "93551",
+            "street_address": "1233 Rancho Vista Boulevard",
+            "lat_long": [
+                34.6020834,
+                -118.1079314
+            ]
+        },
+        {
+            "station_name": "Palo Alto, CA - Stanford Shopping Center Supercharger",
+            "city": "Palo Alto",
+            "state": "CA",
+            "zip_code": "94304",
+            "street_address": "660 Stanford Shopping Center",
+            "lat_long": [
+                37.44319205,
+                -122.17091631440843
+            ]
+        },
+        {
+            "station_name": "Pasadena, CA Supercharger",
+            "city": "Pasadena",
+            "state": "CA",
+            "zip_code": "91105",
+            "street_address": "155 East Green Street",
+            "lat_long": [
+                39.57071551215911,
+                -76.99340192532132
+            ]
+        },
+        {
+            "station_name": "Paso Robles, CA Supercharger",
+            "city": "Paso Robles",
+            "state": "CA",
+            "zip_code": "93446",
+            "street_address": "2421-2445 Golden Hill Road",
+            "lat_long": [
+                22.3496089,
+                114.1538033
+            ]
+        },
+        {
+            "station_name": "Patterson, CA - Speno Dr Supercharger",
+            "city": "Patterson",
+            "state": "CA",
+            "zip_code": "95363",
+            "street_address": "2959 Speno Drive",
+            "lat_long": [
+                37.3023281,
+                -121.9610738
+            ]
+        },
+        {
+            "station_name": "Petaluma, CA Supercharger",
+            "city": "Petaluma",
+            "state": "CA",
+            "zip_code": "94952",
+            "street_address": "401 Kenilworth Drive",
+            "lat_long": [
+                38.2445017,
+                -122.6255791
+            ]
+        },
+        {
+            "station_name": "Pismo Beach, CA Supercharger",
+            "city": "Pismo Beach",
+            "state": "CA",
+            "zip_code": "93449",
+            "street_address": "333 5 Cities Drive",
+            "lat_long": [
+                26.2103659,
+                -98.1985813
+            ]
+        },
+        {
+            "station_name": "Pleasanton, CA Supercharger",
+            "city": "Pleasanton",
+            "state": "CA",
+            "zip_code": "94588",
+            "street_address": "6000 Johnson Drive",
+            "lat_long": [
+                37.7001679,
+                -121.91064036327198
+            ]
+        },
+        {
+            "station_name": "Rancho Cucamonga Supercharger",
+            "city": "Rancho Cucamonga",
+            "state": "CA",
+            "zip_code": "91739",
+            "street_address": "12642 Cultural Center Dr.",
+            "lat_long": [
+                34.1135968,
+                -117.529462
+            ]
+        },
+        {
+            "station_name": "Red Bluff, CA Supercharger",
+            "city": "Red Bluff",
+            "state": "CA",
+            "zip_code": "96080",
+            "street_address": "82 Belle Mill Road",
+            "lat_long": [
+                40.1821636,
+                -122.2274309
+            ]
+        },
+        {
+            "station_name": "Redondo Beach Supercharger",
+            "city": "Redondo Beach",
+            "state": "CA",
+            "zip_code": "90278",
+            "street_address": "2410 Marine Avenue",
+            "lat_long": [
+                33.89459204285714,
+                -118.32048682857142
+            ]
+        },
+        {
+            "station_name": "Richmond, CA - Pierce Street Supercharger",
+            "city": "Richmond",
+            "state": "CA",
+            "zip_code": "94804",
+            "street_address": "3288 Pierce St",
+            "lat_long": [
+                37.8983196,
+                -122.309146
+            ]
+        },
+        {
+            "station_name": "Richmond, CA Supercharger",
+            "city": "Richmond",
+            "state": "CA",
+            "zip_code": "94804",
+            "street_address": "2157 Meeker Avenue",
+            "lat_long": [
+                37.91983898245614,
+                -122.34884164912282
+            ]
+        },
+        {
+            "station_name": "Riverside, CA - Canyon Springs Parkway Supercharger",
+            "city": "Riverside",
+            "state": "CA",
+            "zip_code": "92507",
+            "street_address": "2755 Canyon Springs Parkway",
+            "lat_long": [
+                33.9398543,
+                -117.2825946
+            ]
+        },
+        {
+            "station_name": "Riverside, CA Supercharger",
+            "city": "Riverside",
+            "state": "No state",
+            "zip_code": "92501",
+            "street_address": "3370 9th St",
+            "lat_long": [
+                33.9814256,
+                -117.375821
+            ]
+        },
+        {
+            "station_name": "Rohnert Park, CA Supercharger",
+            "city": "Rohnert Park",
+            "state": "CA",
+            "zip_code": "94928",
+            "street_address": "475 Rohnert Park Expressway",
+            "lat_long": [
+                38.349117438598505,
+                -122.72055880045949
+            ]
+        },
+        {
+            "station_name": "Roseville, CA - Galleria Boulevard Supercharger",
+            "city": "Roseville",
+            "state": "CA",
+            "zip_code": "95678",
+            "street_address": "1120 Galleria Boulevard",
+            "lat_long": [
+                34.939713714285716,
+                -80.96850059183673
+            ]
+        },
+        {
+            "station_name": "Roseville, CA Supercharger",
+            "city": "Roseville",
+            "state": "CA",
+            "zip_code": "95678",
+            "street_address": "1151 Galleria Blvd",
+            "lat_long": [
+                38.7734874,
+                -121.269901
+            ]
+        },
+        {
+            "station_name": "Sacramento, CA - Arden Way Supercharger",
+            "city": "Sacramento",
+            "state": "CA",
+            "zip_code": "95815",
+            "street_address": "1689 Arden Way",
+            "lat_long": [
+                38.603327,
+                -121.42853
+            ]
+        },
+        {
+            "station_name": "Sacramento, CA - Freeport Boulevard Supercharger",
+            "city": "Sacramento",
+            "state": "CA",
+            "zip_code": "95822",
+            "street_address": "4700 Freeport Blvd",
+            "lat_long": [
+                38.532654154639175,
+                -121.49468178350516
+            ]
+        },
+        {
+            "station_name": "Sacramento, CA Supercharger",
+            "city": "Sacramento",
+            "state": "CA",
+            "zip_code": "95834-0000",
+            "street_address": "3668 N. Freeway Blvd",
+            "lat_long": [
+                38.637729,
+                -121.49718
+            ]
+        },
+        {
+            "station_name": "Sacramento-Rocklin",
+            "city": "Rocklin",
+            "state": "CA",
+            "zip_code": "95677",
+            "street_address": "4361 Granite Drive",
+            "lat_long": [
+                38.800397,
+                -121.210784
+            ]
+        },
+        {
+            "station_name": "San Bernardino, CA Supercharger",
+            "city": "San Bernardino",
+            "state": "CA",
+            "zip_code": "92408",
+            "street_address": "500 Inland Center Drive",
+            "lat_long": [
+                34.0849751,
+                -117.29737843144814
+            ]
+        },
+        {
+            "station_name": "San Carlos, CA Supercharger",
+            "city": "San Carlos",
+            "state": "CA",
+            "zip_code": "94070",
+            "street_address": "1127 Industrial Road",
+            "lat_long": [
+                37.50234375,
+                -122.24412553766656
+            ]
+        },
+        {
+            "station_name": "San Clemente, CA - Avenida Vista Hermosa Supercharger",
+            "city": "San Clemente",
+            "state": "CA",
+            "zip_code": "92673",
+            "street_address": "990 Avenida Vista Hermosa",
+            "lat_long": [
+                33.46363905,
+                -117.6065299556262
+            ]
+        },
+        {
+            "station_name": "San Clemente, CA Supercharger",
+            "city": "San Clemente",
+            "state": "CA",
+            "zip_code": "92672-7706",
+            "street_address": "101 West Avenida Vista Hermosa",
+            "lat_long": [
+                33.4358746,
+                -117.6278506
+            ]
+        },
+        {
+            "station_name": "San Diego Supercharger",
+            "city": "San Diego",
+            "state": "CA",
+            "zip_code": "92121",
+            "street_address": "10155 Pacific Heights Blvd",
+            "lat_long": [
+                32.9030035,
+                -117.19442696184636
+            ]
+        },
+        {
+            "station_name": "San Diego, CA - Balboa Ave Supercharger",
+            "city": "San Diego",
+            "state": "CA",
+            "zip_code": "92111",
+            "street_address": "5617 Balboa Avenue",
+            "lat_long": [
+                32.8196873,
+                -117.179722
+            ]
+        },
+        {
+            "station_name": "San Diego, CA - Camino Del Sur Supercharger",
+            "city": "San Diego",
+            "state": "CA",
+            "zip_code": "92127",
+            "street_address": "17170 Camino Del Sur",
+            "lat_long": [
+                33.021716178399366,
+                -117.12784824764496
+            ]
+        },
+        {
+            "station_name": "San Diego, CA - Friars Road Supercharger",
+            "city": "San Diego",
+            "state": "CA",
+            "zip_code": "92108",
+            "street_address": "7007 Friars Road",
+            "lat_long": [
+                32.7683726,
+                -117.165747
+            ]
+        },
+        {
+            "station_name": "San Francisco, CA - Letterman Drive Supercharger",
+            "city": "94129",
+            "state": "CA",
+            "zip_code": "San Francisco",
+            "street_address": "1 Letterman Drive",
+            "lat_long": [
+                37.7992577,
+                -122.449351
+            ]
+        },
+        {
+            "station_name": "San Francisco, CA Supercharger",
+            "city": "San Francisco",
+            "state": "CA",
+            "zip_code": "94102",
+            "street_address": "601 Van Ness Avenue",
+            "lat_long": [
+                37.78162,
+                -122.420827
+            ]
+        },
+        {
+            "station_name": "San Jose, CA - Blossom Hill Road Supercharger",
+            "city": "San Jose",
+            "state": "CA",
+            "zip_code": "95118",
+            "street_address": "1375 Blossom Hill Road",
+            "lat_long": [
+                37.245496,
+                -121.8895151
+            ]
+        },
+        {
+            "station_name": "San Jose, CA - Cherry Avenue Supercharger",
+            "city": "San Jose",
+            "state": "CA",
+            "zip_code": "95118",
+            "street_address": "5160 Cherry Avenue",
+            "lat_long": [
+                37.25707635,
+                -121.87292074377638
+            ]
+        },
+        {
+            "station_name": "San Jose, CA - Coleman Avenue Supercharger",
+            "city": "San Jose",
+            "state": "CA",
+            "zip_code": "95110",
+            "street_address": "533 Coleman Avenue",
+            "lat_long": [
+                37.3385095,
+                -121.9044060956291
+            ]
+        },
+        {
+            "station_name": "San Jose, CA - E Capitol Expressway Supercharger",
+            "city": "San Jose",
+            "state": "CA",
+            "zip_code": "95121",
+            "street_address": "1029 East Capitol Expressway",
+            "lat_long": [
+                37.2999147,
+                -121.8224756
+            ]
+        },
+        {
+            "station_name": "San Jose, CA - Holger Way Supercharger",
+            "city": "San Jose",
+            "state": "CA",
+            "zip_code": "95134",
+            "street_address": "95 Holger Way",
+            "lat_long": [
+                37.41817655,
+                -121.95615154681468
+            ]
+        },
+        {
+            "station_name": "San Jose, CA - Santana Row Supercharger",
+            "city": "San Jose",
+            "state": "CA",
+            "zip_code": "95128",
+            "street_address": "330 South Winchester",
+            "lat_long": [
+                42.0723359,
+                -80.080199
+            ]
+        },
+        {
+            "station_name": "San Juan Capistrano, CA Supercharger",
+            "city": "San Juan Capistrano",
+            "state": "CA",
+            "zip_code": "92675",
+            "street_address": "31971 Camino Capistrano",
+            "lat_long": [
+                33.4983808,
+                -117.66282687520929
+            ]
+        },
+        {
+            "station_name": "San Luis Obispo, CA Supercharger",
+            "city": "San Luis Obispo",
+            "state": "CA",
+            "zip_code": "93405",
+            "street_address": "100 Madonna Road",
+            "lat_long": [
+                35.2673282,
+                -120.6747253462217
+            ]
+        },
+        {
+            "station_name": "San Mateo Supercharger",
+            "city": "San Mateo",
+            "state": "CA",
+            "zip_code": "94403",
+            "street_address": "1200 Park Place",
+            "lat_long": [
+                40.6725375,
+                -73.93784418357657
+            ]
+        },
+        {
+            "station_name": "San Mateo, CA - Bridgepointe Pkwy Supercharger",
+            "city": "San Mateo",
+            "state": "CA",
+            "zip_code": "94404-1569",
+            "street_address": "2220 Bridgepointe Pkwy",
+            "lat_long": [
+                37.558546,
+                -122.284614
+            ]
+        },
+        {
+            "station_name": "San Ramon, CA Supercharger",
+            "city": "San Ramon",
+            "state": "CA",
+            "zip_code": "94583",
+            "street_address": "2610 Bishop Drive",
+            "lat_long": [
+                37.7621803,
+                -121.96439048598695
+            ]
+        },
+        {
+            "station_name": "Santa Clara, CA Supercharger",
+            "city": "Santa Clara",
+            "state": "CA",
+            "zip_code": "95054",
+            "street_address": "3945 Rivermark Plaza",
+            "lat_long": [
+                37.394265,
+                -121.9456776
+            ]
+        },
+        {
+            "station_name": "Santa Clarita, CA Supercharger",
+            "city": "Valencia",
+            "state": "CA",
+            "zip_code": "91355",
+            "street_address": "24061 Newhall Ranch Road",
+            "lat_long": [
+                34.4311909,
+                -118.5565426
+            ]
+        },
+        {
+            "station_name": "Santa Cruz, CA Supercharger",
+            "city": "Santa Cruz",
+            "state": "CA",
+            "zip_code": "95062",
+            "street_address": "911 Soquel Avenue",
+            "lat_long": [
+                36.97813968207094,
+                -122.01392480031336
+            ]
+        },
+        {
+            "station_name": "Santa Monica, CA - Santa Monica Place Supercharger",
+            "city": "Santa Monica",
+            "state": "CA",
+            "zip_code": "90401",
+            "street_address": "395 Santa Monica Place",
+            "lat_long": [
+                27.740027784977507,
+                -97.3755090085127
+            ]
+        },
+        {
+            "station_name": "Santa Rosa, CA Supercharger",
+            "city": "Santa Rosa",
+            "state": "CA",
+            "zip_code": "95401",
+            "street_address": "733 Coddingtown Center",
+            "lat_long": [
+                38.45785,
+                -122.7290459
+            ]
+        },
+        {
+            "station_name": "Scotts Valley, CA, Supercharger",
+            "city": "Scott's Valley",
+            "state": "CA",
+            "zip_code": "95066",
+            "street_address": "230 Mount Hermon Road",
+            "lat_long": [
+                37.0485047,
+                -122.026284
+            ]
+        },
+        {
+            "station_name": "Simi Valley, CA - Tierra Rejada Road Supercharger",
+            "city": "Simi Valley",
+            "state": "CA",
+            "zip_code": "93065",
+            "street_address": "51 Tierra Rejada Road",
+            "lat_long": [
+                34.27245979569284,
+                -118.79876451476188
+            ]
+        },
+        {
+            "station_name": "South San Francisco, CA Supercharger",
+            "city": "South San Francisco",
+            "state": "CA",
+            "zip_code": "94080",
+            "street_address": "250 Gateway Boulevard",
+            "lat_long": [
+                35.971849199999994,
+                -77.84339739449516
+            ]
+        },
+        {
+            "station_name": "Stockton, CA Supercharger",
+            "city": "Stockton",
+            "state": "CA",
+            "zip_code": "95207",
+            "street_address": "2323 Grand Canal Boulevard",
+            "lat_long": [
+                37.9845659,
+                -121.33591592926729
+            ]
+        },
+        {
+            "station_name": "Sunnyvale, CA - W. McKinley Ave Supercharger",
+            "city": "Sunnyvale",
+            "state": "No state",
+            "zip_code": "94086-6193",
+            "street_address": "298 W. McKinley Ave",
+            "lat_long": [
+                37.3741351,
+                -122.0325973
+            ]
+        },
+        {
+            "station_name": "Tahoe City, CA Supercharger",
+            "city": "Tahoe City",
+            "state": "CA",
+            "zip_code": "96145",
+            "street_address": "140 Lake Boulevard",
+            "lat_long": [
+                39.81494469583682,
+                -75.00144202100923
+            ]
+        },
+        {
+            "station_name": "Tejon Ranch Supercharger",
+            "city": "Lebec",
+            "state": "CA",
+            "zip_code": "93243",
+            "street_address": "5602 Dennis McCarthy Dr",
+            "lat_long": [
+                34.984317,
+                -118.9485939
+            ]
+        },
+        {
+            "station_name": "Temecula Supercharger",
+            "city": "Temecula",
+            "state": "CA",
+            "zip_code": "92591",
+            "street_address": "40820 Winchester Rd.",
+            "lat_long": [
+                33.5241559,
+                -117.152548
+            ]
+        },
+        {
+            "station_name": "Thousand Oaks, CA - East Thousand Oaks Boulevard Supercharger",
+            "city": "Thousand Oaks",
+            "state": "No state",
+            "zip_code": "91362",
+            "street_address": "4000 East Thousand Oaks Boulevard",
+            "lat_long": [
+                34.16113847954996,
+                -118.8235514516604
+            ]
+        },
+        {
+            "station_name": "Thousand Oaks, CA - West Hillcrest Drive Supercharger",
+            "city": "Thousand Oaks",
+            "state": "CA",
+            "zip_code": "91360",
+            "street_address": "350 West Hillcrest Drive",
+            "lat_long": [
+                34.1818748,
+                -118.883482
+            ]
+        },
+        {
+            "station_name": "Truckee Brockway Road Supercharger",
+            "city": "Truckee",
+            "state": "CA",
+            "zip_code": "96161",
+            "street_address": "11209 Brockway Road",
+            "lat_long": [
+                39.32242693019241,
+                -120.16490297478464
+            ]
+        },
+        {
+            "station_name": "Truckee Donner Pass Supercharger",
+            "city": "Truckee",
+            "state": "CA",
+            "zip_code": "96161",
+            "street_address": "11290 Donner Pass Rd",
+            "lat_long": [
+                39.3272672,
+                -120.206545
+            ]
+        },
+        {
+            "station_name": "Twentynine Palms Supercharger",
+            "city": "Twentynine Palms",
+            "state": "CA",
+            "zip_code": "92277-4125",
+            "street_address": "73829 Baseline Road",
+            "lat_long": [
+                34.12111932955288,
+                -116.0511209334315
+            ]
+        },
+        {
+            "station_name": "Ukiah Supercharger",
+            "city": "Ukiah",
+            "state": "CA",
+            "zip_code": "95482",
+            "street_address": "250 W Clay St.",
+            "lat_long": [
+                37.4695404,
+                -88.16838967500001
+            ]
+        },
+        {
+            "station_name": "Vacaville Supercharger",
+            "city": "Vacaville",
+            "state": "CA",
+            "zip_code": "95687",
+            "street_address": "321 Nut Tree Road",
+            "lat_long": [
+                38.3658059,
+                -121.9583747
+            ]
+        },
+        {
+            "station_name": "Vallejo, CA Supercharger",
+            "city": "Vallejo",
+            "state": "CA",
+            "zip_code": "94591",
+            "street_address": "904 Admiral Callaghan Lane",
+            "lat_long": [
+                38.1321065,
+                -122.2224437
+            ]
+        },
+        {
+            "station_name": "Walnut Creek, CA Supercharger",
+            "city": "Walnut Creek",
+            "state": "CA",
+            "zip_code": "94596",
+            "street_address": "1153 Locust Street",
+            "lat_long": [
+                41.909129449999995,
+                -71.01309939930195
+            ]
+        },
+        {
+            "station_name": "Webster, TX Supercharger",
+            "city": "Webster",
+            "state": "CA",
+            "zip_code": "77598",
+            "street_address": "21361 Gulf Freeway",
+            "lat_long": [
+                29.519469649999998,
+                -95.12247871024232
+            ]
+        },
+        {
+            "station_name": "Westminster, CA Supercharger",
+            "city": "Westminster",
+            "state": "CA",
+            "zip_code": "92683",
+            "street_address": "1025 Westminster Mall",
+            "lat_long": [
+                33.74958670731631,
+                -118.01386079381933
+            ]
+        },
+        {
+            "station_name": "Woodland, CA Supercharger",
+            "city": "Woodland",
+            "state": "CA",
+            "zip_code": "95776",
+            "street_address": "2185 Bronze Star Drive",
+            "lat_long": [
+                38.6724566,
+                -121.7246872
+            ]
+        },
+        {
+            "station_name": "Woodland, CA Supercharger #2",
+            "city": "Woodland",
+            "state": "CA",
+            "zip_code": "95776",
+            "street_address": "2185 Bronze Star Drive",
+            "lat_long": [
+                38.6724566,
+                -121.7246872
+            ]
+        },
+        {
+            "station_name": "Yermo, CA Supercharger",
+            "city": "Yermo",
+            "state": "CA",
+            "zip_code": "92398",
+            "street_address": "36017 Calico Road",
+            "lat_long": [
+                34.907114449999995,
+                -116.83537760802383
+            ]
+        },
+        {
+            "station_name": "Yuba City, CA Supercharger",
+            "city": "Yuba City",
+            "state": "CA",
+            "zip_code": "95993",
+            "street_address": "1475 Tharp Road",
+            "lat_long": [
+                39.14887196101362,
+                -121.64836668223703
+            ]
+        },
+        {
+            "station_name": "Aspen, CO Supercharger",
+            "city": "Aspen",
+            "state": "CO",
+            "zip_code": "81611-2506",
+            "street_address": "38750 Highway 82",
+            "lat_long": [
+                33.9962335,
+                -83.6401038
+            ]
+        },
+        {
+            "station_name": "Boulder, CO Supercharger",
+            "city": "Boulder",
+            "state": "CO",
+            "zip_code": "80301",
+            "street_address": "1710 29th Street",
+            "lat_long": [
+                40.775117525252526,
+                -74.03991434343435
+            ]
+        },
+        {
+            "station_name": "Brighton, CO Supercharger",
+            "city": "Brighton",
+            "state": "CO",
+            "zip_code": "80603",
+            "street_address": "5112 East Bromley Lane",
+            "lat_long": [
+                39.97164995,
+                -104.74908291446226
+            ]
+        },
+        {
+            "station_name": "Brush Supercharger",
+            "city": "Brush",
+            "state": "CO",
+            "zip_code": "80723-2902",
+            "street_address": "1156  CO-71",
+            "lat_long": [
+                38.05318582653061,
+                -103.71571678571428
+            ]
+        },
+        {
+            "station_name": "Centennial, CO Supercharger",
+            "city": "Centennial",
+            "state": "CO",
+            "zip_code": "80112",
+            "street_address": "9555 East County Line Road",
+            "lat_long": [
+                43.117855361867356,
+                -84.41638476031125
+            ]
+        },
+        {
+            "station_name": "Colorado Springs Supercharger",
+            "city": "Colorado Springs",
+            "state": "CO",
+            "zip_code": "80903",
+            "street_address": "215 North Cascade Avenue",
+            "lat_long": [
+                38.8376527,
+                -104.824828
+            ]
+        },
+        {
+            "station_name": "Conifer, CO - Conifer Road Supercharger",
+            "city": "Conifer",
+            "state": "CO",
+            "zip_code": "80433-9078",
+            "street_address": "25637 Conifer Road",
+            "lat_long": [
+                39.54304346314717,
+                -105.29333331268126
+            ]
+        },
+        {
+            "station_name": "Denver, CO Supercharger",
+            "city": "Denver",
+            "state": "CO",
+            "zip_code": "80239",
+            "street_address": "4310 Airport Way",
+            "lat_long": [
+                39.77477555,
+                -104.7951351518843
+            ]
+        },
+        {
+            "station_name": "Estes Park, CO Supercharger",
+            "city": "Estes Park",
+            "state": "CO",
+            "zip_code": "80517-9665",
+            "street_address": "333 Wonderview Avenue",
+            "lat_long": [
+                40.3830052,
+                -105.51945865654417
+            ]
+        },
+        {
+            "station_name": "Glenwood Springs, CO Supercharger",
+            "city": "Glenwood Springs",
+            "state": "CO",
+            "zip_code": "81601",
+            "street_address": "125 Wulfsohn Rd",
+            "lat_long": [
+                39.5554021,
+                -107.3468046
+            ]
+        },
+        {
+            "station_name": "Idaho Springs, CO Supercharger",
+            "city": "Idaho Springs",
+            "state": "CO",
+            "zip_code": "80452",
+            "street_address": "1319 Miner Street",
+            "lat_long": [
+                39.7416528,
+                -105.5186318
+            ]
+        },
+        {
+            "station_name": "Lakewood, CO Supercharger",
+            "city": "Lakewood",
+            "state": "CO",
+            "zip_code": "80401",
+            "street_address": "14500 West Colfax Avenue",
+            "lat_long": [
+                39.731319,
+                -105.1565967
+            ]
+        },
+        {
+            "station_name": "Loveland Supercharger",
+            "city": "Loveland",
+            "state": "CO",
+            "zip_code": "80538-9347",
+            "street_address": "4705 Clydesdale Parkway",
+            "lat_long": [
+                40.440733,
+                -104.99019287873469
+            ]
+        },
+        {
+            "station_name": "Poncha Springs, CO Superchargers",
+            "city": "Poncha Springs",
+            "state": "CO",
+            "zip_code": "81242-0000",
+            "street_address": "6250 US Highway 285",
+            "lat_long": [
+                38.511898,
+                -106.0764111
+            ]
+        },
+        {
+            "station_name": "Silverthorne, CO Supercharger",
+            "city": "Silverthorne",
+            "state": "CO",
+            "zip_code": "80498-0497",
+            "street_address": "246-V Rainbow Dr",
+            "lat_long": [
+                44.854784,
+                -89.61587
+            ]
+        },
+        {
+            "station_name": "Silverthorne, CO Supercharger #2",
+            "city": "Silverthorne",
+            "state": "CO",
+            "zip_code": "80498",
+            "street_address": "309 Rainbow Dr",
+            "lat_long": [
+                35.9234396,
+                -79.0958627
+            ]
+        },
+        {
+            "station_name": "Superior, CO - South Marshall Road Supercharging",
+            "city": "Superior",
+            "state": "CO",
+            "zip_code": "80027",
+            "street_address": "2 South Marshall Road",
+            "lat_long": [
+                39.95469525,
+                -105.16507092452144
+            ]
+        },
+        {
+            "station_name": "Thornton, CO Supercharger",
+            "city": "Thornton",
+            "state": "CO",
+            "zip_code": "80233",
+            "street_address": "237 East 120th Avenue",
+            "lat_long": [
+                39.91447805,
+                -104.98702180000001
+            ]
+        },
+        {
+            "station_name": "Thornton, CO Supercharger #2",
+            "city": "Thornton",
+            "state": "CO",
+            "zip_code": "80233",
+            "street_address": "237 East 120th Avenue",
+            "lat_long": [
+                39.91447805,
+                -104.98702180000001
+            ]
+        },
+        {
+            "station_name": "Trinidad Supercharger",
+            "city": "Trinidad",
+            "state": "CO",
+            "zip_code": "81082",
+            "street_address": "9960 Santa Fe Trail",
+            "lat_long": [
+                37.1336395,
+                -104.5200007
+            ]
+        },
+        {
+            "station_name": "Danbury, CT Supercharger",
+            "city": "Danbury",
+            "state": "No state",
+            "zip_code": "06810-7422",
+            "street_address": "7 Backus Ave",
+            "lat_long": [
+                41.3799838,
+                -73.4809823
+            ]
+        },
+        {
+            "station_name": "Fairfield, CT - Northbound Supercharger",
+            "city": "Fairfield",
+            "state": "CT",
+            "zip_code": "06824",
+            "street_address": "165 Round Hill Road",
+            "lat_long": [
+                41.1464283,
+                -73.2561067
+            ]
+        },
+        {
+            "station_name": "Fairfield, CT - Southbound Supercharger",
+            "city": "Fairfield",
+            "state": "CT",
+            "zip_code": "06824",
+            "street_address": "267 Round Hill Road",
+            "lat_long": [
+                41.147881,
+                -73.2567033
+            ]
+        },
+        {
+            "station_name": "Greenwich, CT North Supercharger",
+            "city": "Greenwich",
+            "state": "CT",
+            "zip_code": "6830",
+            "street_address": "3000 Merritt Parkway",
+            "lat_long": [
+                41.041028850000004,
+                -73.67236197836768
+            ]
+        },
+        {
+            "station_name": "Greenwich, CT South Supercharger",
+            "city": "Greenwich",
+            "state": "CT",
+            "zip_code": "6830",
+            "street_address": "2000 Merritt Parkway",
+            "lat_long": [
+                41.04123825,
+                -73.67302748408932
+            ]
+        },
+        {
+            "station_name": "Hartford, CT - Leibert Road Supercharger",
+            "city": "Hartford",
+            "state": "CT",
+            "zip_code": "06120",
+            "street_address": "165 Leibert Road",
+            "lat_long": [
+                41.7872361,
+                -72.6556714
+            ]
+        },
+        {
+            "station_name": "Madison, CT - Northbound Supercharger",
+            "city": "Madison",
+            "state": "CT",
+            "zip_code": "06443",
+            "street_address": "1-95 North Avenue",
+            "lat_long": [
+                41.9089278,
+                -87.8069838
+            ]
+        },
+        {
+            "station_name": "Manchester, CT Supercharger",
+            "city": "Manchester",
+            "state": "CT",
+            "zip_code": "06042-8764",
+            "street_address": "1470 Pleasant Valley Road",
+            "lat_long": [
+                41.8061667,
+                -72.5594015
+            ]
+        },
+        {
+            "station_name": "Milford - Boston Post Road Supercharger",
+            "city": "Milford",
+            "state": "CT",
+            "zip_code": "6460",
+            "street_address": "1201 Boston Post Road",
+            "lat_long": [
+                41.23585025,
+                -73.03577207827837
+            ]
+        },
+        {
+            "station_name": "Milford, CT North Supercharger",
+            "city": "Milford",
+            "state": "CT",
+            "zip_code": "6460",
+            "street_address": "Milford Travel Plaza",
+            "lat_long": [
+                41.223315,
+                -73.0003400202381
+            ]
+        },
+        {
+            "station_name": "Milford, CT South Supercharger",
+            "city": "Milford",
+            "state": "CT",
+            "zip_code": "6460",
+            "street_address": "Travel Plaza",
+            "lat_long": [
+                45.49428855,
+                -94.14886506682028
+            ]
+        },
+        {
+            "station_name": "New London, CT Supercharger",
+            "city": "New London",
+            "state": "CT",
+            "zip_code": "06320",
+            "street_address": "351 North Frontage Road",
+            "lat_long": [
+                40.6459132819866,
+                -118.20997266512705
+            ]
+        },
+        {
+            "station_name": "North Stamford, CT Supercharger",
+            "city": "North Stamford",
+            "state": "CT",
+            "zip_code": "06905-1215",
+            "street_address": "1145 High Ridge Rd",
+            "lat_long": [
+                41.109092149999995,
+                -73.54670089378706
+            ]
+        },
+        {
+            "station_name": "Stamford, CT Supercharger",
+            "city": "Stamford",
+            "state": "CT",
+            "zip_code": "06905",
+            "street_address": "2233 Summer Street",
+            "lat_long": [
+                41.066762835247744,
+                -73.54533918898493
+            ]
+        },
+        {
+            "station_name": "Waterbury, CT Supercharger",
+            "city": "Waterbury",
+            "state": "CT",
+            "zip_code": "6705",
+            "street_address": "160 Kukas Lane",
+            "lat_long": [
+                41.53725160120317,
+                -73.0055281289009
+            ]
+        },
+        {
+            "station_name": "Augusta, GA Supercharger",
+            "city": "Augusta",
+            "state": "GA",
+            "zip_code": "30907",
+            "street_address": "1069 Stevens Creek Road",
+            "lat_long": [
+                33.51479215,
+                -82.04536512779583
+            ]
+        },
+        {
+            "station_name": "Brunswick, GA Supercharger",
+            "city": "Brunswick",
+            "state": "GA",
+            "zip_code": "31525",
+            "street_address": "380 Millennium Boulevard",
+            "lat_long": [
+                41.2727167,
+                -80.7735117
+            ]
+        },
+        {
+            "station_name": "Brunswick, GA Supercharger #2",
+            "city": "Brunswick",
+            "state": "GA",
+            "zip_code": "31525",
+            "street_address": "380 Millennium Boulevard",
+            "lat_long": [
+                41.2727167,
+                -80.7735117
+            ]
+        },
+        {
+            "station_name": "Buford, GA Supercharger",
+            "city": "Buford",
+            "state": "GA",
+            "zip_code": "30519",
+            "street_address": "1695 Mall of Georgia Blvd",
+            "lat_long": [
+                34.0678241,
+                -83.9709159
+            ]
+        },
+        {
+            "station_name": "Kingsland, GA Supercharger",
+            "city": "Kingsland",
+            "state": "GA",
+            "zip_code": "31548",
+            "street_address": "1190 East Boone Avenue",
+            "lat_long": [
+                47.66837074578602,
+                -117.39238647068123
+            ]
+        },
+        {
+            "station_name": "Lithonia, GA Supercharger",
+            "city": "Lithonia",
+            "state": "GA",
+            "zip_code": "30038",
+            "street_address": "3007 Panola Road",
+            "lat_long": [
+                33.70016469232609,
+                -84.17257738989018
+            ]
+        },
+        {
+            "station_name": "Macon, GA - Tom Hill Senior Boulevard Supercharger",
+            "city": "Macon",
+            "state": "GA",
+            "zip_code": "31210",
+            "street_address": "121 Tom Hill Senior Boulevard",
+            "lat_long": [
+                32.90029294184565,
+                -83.6877093885524
+            ]
+        },
+        {
+            "station_name": "Macon, GA Supercharger",
+            "city": "Macon",
+            "state": "GA",
+            "zip_code": "31201",
+            "street_address": "450 Martin Luther King Jr Blvd",
+            "lat_long": [
+                32.8337622,
+                -83.62619379757604
+            ]
+        },
+        {
+            "station_name": "Metter, GA Supercharger",
+            "city": "Metter",
+            "state": "GA",
+            "zip_code": "30439",
+            "street_address": "1118 South Lewis Street",
+            "lat_long": [
+                36.983837790403726,
+                -85.9135013058106
+            ]
+        },
+        {
+            "station_name": "Savannah, GA Supercharger",
+            "city": "Savannah",
+            "state": "GA",
+            "zip_code": "31408",
+            "street_address": "400 Airways Avenue",
+            "lat_long": [
+                32.13551145,
+                -81.20760827070053
+            ]
+        },
+        {
+            "station_name": "Valdosta, GA Supercharger",
+            "city": "Valdosta",
+            "state": "GA",
+            "zip_code": "31601",
+            "street_address": "2112 West Hill Avenue",
+            "lat_long": [
+                33.8605512,
+                -117.96587742559052
+            ]
+        },
+        {
+            "station_name": "Boise Supercharger",
+            "city": "Boise",
+            "state": "ID",
+            "zip_code": "83709",
+            "street_address": "1426 South Entertainment Ave",
+            "lat_long": [
+                43.59169945,
+                -116.27961094394983
+            ]
+        },
+        {
+            "station_name": "Burley, ID Supercharger",
+            "city": "Burley",
+            "state": "ID",
+            "zip_code": "83318",
+            "street_address": "240 East 5th Street North",
+            "lat_long": [
+                33.800865897959184,
+                -93.37505118367346
+            ]
+        },
+        {
+            "station_name": "Coeur d'Alene Supercharger",
+            "city": "Coeur d'Alene",
+            "state": "ID",
+            "zip_code": "83815",
+            "street_address": "3458 N Fruitland Lane",
+            "lat_long": [
+                47.70835557142857,
+                -116.79463407142856
+            ]
+        },
+        {
+            "station_name": "Idaho Falls Supercharger",
+            "city": "Idaho Falls",
+            "state": "ID",
+            "zip_code": "83402",
+            "street_address": "940 Pier View Drive",
+            "lat_long": [
+                43.4840626,
+                -112.054883
+            ]
+        },
+        {
+            "station_name": "Pocatello Supercharger",
+            "city": "Pocatello",
+            "state": "ID",
+            "zip_code": "83201",
+            "street_address": "1399 Bench Road",
+            "lat_long": [
+                42.901286234926154,
+                -112.43297463953205
+            ]
+        },
+        {
+            "station_name": "Aurora, IL - IL-59 Supercharger",
+            "city": "Aurora",
+            "state": "IL",
+            "zip_code": "60504",
+            "street_address": "808 IL-59",
+            "lat_long": [
+                42.394132163265304,
+                -88.14765569387755
+            ]
+        },
+        {
+            "station_name": "Bolingbrook, IL Supercharger",
+            "city": "Bolingbrook",
+            "state": "IL",
+            "zip_code": "60440-2250",
+            "street_address": "755 E. Boughton Road",
+            "lat_long": [
+                41.721292950000006,
+                -88.03579462225267
+            ]
+        },
+        {
+            "station_name": "Buffalo Grove, IL Supercharger",
+            "city": "Buffalo Grove",
+            "state": "IL",
+            "zip_code": "60089",
+            "street_address": "1550 Deerfield Parkway",
+            "lat_long": [
+                42.16915795,
+                -87.92413686568707
+            ]
+        },
+        {
+            "station_name": "Champaign, IL\t Supercharger",
+            "city": "Champaign",
+            "state": "IL",
+            "zip_code": "61822",
+            "street_address": "2401 North Prospect Avenue",
+            "lat_long": [
+                40.1443852,
+                -88.2602758
+            ]
+        },
+        {
+            "station_name": "Chicago, IL - North Broadway Supercharger",
+            "city": "Chicago",
+            "state": "IL",
+            "zip_code": "60657",
+            "street_address": "3030 North Broadway",
+            "lat_long": [
+                41.9370286,
+                -87.6452092
+            ]
+        },
+        {
+            "station_name": "Chicago, IL - North Columbus Drive Supercharger",
+            "city": "Chicago",
+            "state": "Il",
+            "zip_code": "linois 60601-7910",
+            "street_address": "225 North Columbus Drive",
+            "lat_long": [
+                41.886335599999995,
+                -87.61990629185485
+            ]
+        },
+        {
+            "station_name": "Chicago, IL - North Halsted Supercharger",
+            "city": "Chicago",
+            "state": "IL",
+            "zip_code": "60642",
+            "street_address": "1457 N Halsted St.",
+            "lat_long": [
+                41.90702995343159,
+                -87.64806855728266
+            ]
+        },
+        {
+            "station_name": "Chicago, IL - South Canal Street Supercharger",
+            "city": "Chicago",
+            "state": "IL",
+            "zip_code": "60607",
+            "street_address": "1100 South Canal Street",
+            "lat_long": [
+                41.868932,
+                -87.64004070072181
+            ]
+        },
+        {
+            "station_name": "Country Club Hills, IL Supercharger",
+            "city": "Country Club Hills",
+            "state": "IL",
+            "zip_code": "60478",
+            "street_address": "4201 167th St.",
+            "lat_long": [
+                41.583802899999995,
+                -87.7217944399459
+            ]
+        },
+        {
+            "station_name": "Effingham Supercharger",
+            "city": "Effingham",
+            "state": "IL",
+            "zip_code": "62401",
+            "street_address": "1200 N. Keller Drive",
+            "lat_long": [
+                39.1373224,
+                -88.5640229
+            ]
+        },
+        {
+            "station_name": "Evergreen Park, IL Supercharger",
+            "city": "Evergreen Park",
+            "state": "IL",
+            "zip_code": "60805",
+            "street_address": "9200 South Western Avenue",
+            "lat_long": [
+                41.7247261,
+                -87.68544337214925
+            ]
+        },
+        {
+            "station_name": "Flossmoor, IL Supercharger",
+            "city": "Flossmoor",
+            "state": "IL",
+            "zip_code": "60422",
+            "street_address": "3800 Vollmer Road",
+            "lat_long": [
+                41.530542499999996,
+                -87.71056418994411
+            ]
+        },
+        {
+            "station_name": "Gilman, IL Supercharger",
+            "city": "Gilman",
+            "state": "IL",
+            "zip_code": "60938",
+            "street_address": "1043 South Crescent Street",
+            "lat_long": [
+                39.3819368,
+                -87.3959903
+            ]
+        },
+        {
+            "station_name": "Glenview, IL Supercharger",
+            "city": "Glenview",
+            "state": "IL",
+            "zip_code": "60025",
+            "street_address": "1200 Milwaukee Avenue",
+            "lat_long": [
+                42.91096805,
+                -87.86485352759351
+            ]
+        },
+        {
+            "station_name": "Mt. Vernon Supercharger",
+            "city": "Mt. Vernon",
+            "state": "IL",
+            "zip_code": "62864-6750",
+            "street_address": "222 Potomac Blvd.",
+            "lat_long": [
+                38.3164889,
+                -88.955462
+            ]
+        },
+        {
+            "station_name": "Normal, IL Supercharger",
+            "city": "Normal",
+            "state": "IL",
+            "zip_code": "61761",
+            "street_address": "11 Uptown Circle",
+            "lat_long": [
+                40.508752,
+                -88.9844947
+            ]
+        },
+        {
+            "station_name": "North Aurora Supercharger",
+            "city": "North Aurora",
+            "state": "IL",
+            "zip_code": "60542",
+            "street_address": "151 Hansen Blvd",
+            "lat_long": [
+                30.459479530909768,
+                -87.2415449743318
+            ]
+        },
+        {
+            "station_name": "Northbrook, IL Supercharger",
+            "city": "Northbrook",
+            "state": "IL",
+            "zip_code": "60062",
+            "street_address": "840-109 Willow Road",
+            "lat_long": [
+                53.53667825,
+                -113.04332301268971
+            ]
+        },
+        {
+            "station_name": "Peru, IL Supercharger",
+            "city": "Peru",
+            "state": "IL",
+            "zip_code": "61354",
+            "street_address": "1651 Midtown Road",
+            "lat_long": [
+                34.6346886,
+                -92.501023
+            ]
+        },
+        {
+            "station_name": "Rockford, IL Supercharger",
+            "city": "Rockford",
+            "state": "IL",
+            "zip_code": "61112",
+            "street_address": "7200 Harrison Ave",
+            "lat_long": [
+                42.2448308,
+                -88.9756079
+            ]
+        },
+        {
+            "station_name": "Rolling Meadows, IL Supercharger",
+            "city": "Rolling Meadows",
+            "state": "IL",
+            "zip_code": "60008-4205",
+            "street_address": "1301 Meijer Drive",
+            "lat_long": [
+                42.0474174,
+                -87.9960626
+            ]
+        },
+        {
+            "station_name": "Rosemont, IL Supercharger",
+            "city": "Rosemont",
+            "state": "IL",
+            "zip_code": "60018",
+            "street_address": "5220 Fashion Outlets Way",
+            "lat_long": [
+                41.97525085,
+                -87.8670549728829
+            ]
+        },
+        {
+            "station_name": "Skokie, IL Supercharger",
+            "city": "Skokie",
+            "state": "IL",
+            "zip_code": "60077",
+            "street_address": "5507 Touhy Avenue",
+            "lat_long": [
+                42.0101615,
+                -87.7659434
+            ]
+        },
+        {
+            "station_name": "Springfield Illinois Supercharger",
+            "city": "Springfield",
+            "state": "IL",
+            "zip_code": "62704",
+            "street_address": "3801 S. MacArthur Blvd.",
+            "lat_long": [
+                39.75000015,
+                -89.67108360139164
+            ]
+        },
+        {
+            "station_name": "Zionsville, IN Supercharger",
+            "city": "Zionsville",
+            "state": "IL",
+            "zip_code": "46077",
+            "street_address": "6650 Whitestown Parkway",
+            "lat_long": [
+                39.95184645,
+                -86.34248782661973
+            ]
+        },
+        {
+            "station_name": "Angola, IN Supercharger",
+            "city": "Angola",
+            "state": "IN",
+            "zip_code": "46703",
+            "street_address": "3855 Indiana 127",
+            "lat_long": [
+                57.3568644,
+                10.5169352
+            ]
+        },
+        {
+            "station_name": "Carmel, IN Supercharger",
+            "city": "Carmel",
+            "state": "IN",
+            "zip_code": "46032",
+            "street_address": "1424 W Carmel Dr",
+            "lat_long": [
+                39.97343395,
+                -86.15486936613308
+            ]
+        },
+        {
+            "station_name": "Fishers, IN Supercharger",
+            "city": "Fishers",
+            "state": "No state",
+            "zip_code": "46038-1615",
+            "street_address": "9 Municipal Drive",
+            "lat_long": [
+                45.3848669,
+                -80.047395
+            ]
+        },
+        {
+            "station_name": "Fort Wayne, IN Supercharger",
+            "city": "Fort Wayne",
+            "state": "IN",
+            "zip_code": "46818",
+            "street_address": "6309 Lima Road",
+            "lat_long": [
+                41.1379912,
+                -85.16597869941921
+            ]
+        },
+        {
+            "station_name": "Indianapolis, IN - Capitol Avenue Supercharger",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip_code": "46225",
+            "street_address": "109 South Capitol Avenue",
+            "lat_long": [
+                39.76528985,
+                -86.16124174690827
+            ]
+        },
+        {
+            "station_name": "Indianapolis, IN Supercharger",
+            "city": "Indianapolis",
+            "state": "IN",
+            "zip_code": "46201",
+            "street_address": "5120 Victory Dr",
+            "lat_long": [
+                39.7025564,
+                -86.08032859044974
+            ]
+        },
+        {
+            "station_name": "Kokomo, IN Supercharger",
+            "city": "Kokomo",
+            "state": "IN",
+            "zip_code": "46901",
+            "street_address": "2301 East Markland Avenue",
+            "lat_long": [
+                40.47416595,
+                -86.10090164463404
+            ]
+        },
+        {
+            "station_name": "Merrillville, IN Supercharger",
+            "city": "Merrillville",
+            "state": "IN",
+            "zip_code": "46410",
+            "street_address": "611 West Lincoln Highway",
+            "lat_long": [
+                41.506171936358434,
+                -87.79324726525945
+            ]
+        },
+        {
+            "station_name": "Mishawaka, IN Supercharger",
+            "city": "Mishawaka",
+            "state": "IN",
+            "zip_code": "46545",
+            "street_address": "6501 Grape Rd",
+            "lat_long": [
+                41.7192225,
+                -86.1894075
+            ]
+        },
+        {
+            "station_name": "Richmond, IN Supercharger",
+            "city": "Richmond",
+            "state": "IN",
+            "zip_code": "47674",
+            "street_address": "2507 Chester Boulevard",
+            "lat_long": [
+                39.868241,
+                -84.88534007633976
+            ]
+        },
+        {
+            "station_name": "Terre Haute, IN Supercharger",
+            "city": "Terre Haute",
+            "state": "IN",
+            "zip_code": "47803",
+            "street_address": "5600 E. New Margaret Dr.",
+            "lat_long": [
+                40.730418,
+                -73.54913
+            ]
+        },
+        {
+            "station_name": "Altoona, IA Supercharger",
+            "city": "Altoona",
+            "state": "IA",
+            "zip_code": "50009",
+            "street_address": "1430 1st Avenue North",
+            "lat_long": [
+                47.63197475,
+                -122.35536355461163
+            ]
+        },
+        {
+            "station_name": "Council Bluffs Supercharger",
+            "city": "Council Bluffs",
+            "state": "IA",
+            "zip_code": "51501",
+            "street_address": "3815 Metro Drive",
+            "lat_long": [
+                41.22106470412278,
+                -95.8374840509534
+            ]
+        },
+        {
+            "station_name": "Dows Supercharger",
+            "city": "Dows",
+            "state": "No state",
+            "zip_code": "50071-8004",
+            "street_address": "904 Cardinal Lane",
+            "lat_long": [
+                29.579060074380163,
+                -97.94659354545453
+            ]
+        },
+        {
+            "station_name": "West Des Moines Supercharger",
+            "city": "West Des Moines",
+            "state": "IA",
+            "zip_code": "50266",
+            "street_address": "1725 Jordan Creek Parkway",
+            "lat_long": [
+                41.59798725,
+                -93.80762939142804
+            ]
+        },
+        {
+            "station_name": "Colby, KS Supercharger",
+            "city": "Colby",
+            "state": "KS",
+            "zip_code": "67701-3746",
+            "street_address": "700 E Horton Ave",
+            "lat_long": [
+                39.3613642,
+                -101.053952
+            ]
+        },
+        {
+            "station_name": "Goodland, KS Supercharger",
+            "city": "Goodland",
+            "state": "KS",
+            "zip_code": "67735",
+            "street_address": "2631 Enterprise Rd",
+            "lat_long": [
+                28.9141877,
+                -81.2913015
+            ]
+        },
+        {
+            "station_name": "Hays, KS Supercharger",
+            "city": "Hays",
+            "state": "KS",
+            "zip_code": "67601",
+            "street_address": "4101 Vine St",
+            "lat_long": [
+                -27.5025206,
+                153.0478049
+            ]
+        },
+        {
+            "station_name": "Mission, KS Supercharger",
+            "city": "Mission",
+            "state": "KS",
+            "zip_code": "66202",
+            "street_address": "6655 Martway Street",
+            "lat_long": [
+                39.0201881,
+                -94.6632194
+            ]
+        },
+        {
+            "station_name": "Salina, KS Supercharger",
+            "city": "Salina",
+            "state": "KS",
+            "zip_code": "67401",
+            "street_address": "755 W. Diamond Dr.",
+            "lat_long": [
+                38.8773571,
+                -97.6186799
+            ]
+        },
+        {
+            "station_name": "Topeka, KS Supercharger",
+            "city": "Topeka",
+            "state": "KS",
+            "zip_code": "66614",
+            "street_address": "5930 SW Huntoon St",
+            "lat_long": [
+                39.0440805,
+                -95.76024407458252
+            ]
+        },
+        {
+            "station_name": "Emporia, KS Supercharger",
+            "city": "Emporia",
+            "state": "KS",
+            "zip_code": "66801",
+            "street_address": "1312 Industrial Road",
+            "lat_long": [
+                43.39458010344456,
+                -80.32937057020852
+            ]
+        },
+        {
+            "station_name": "Olathe, KS Supercharger",
+            "city": "Olathe",
+            "state": "KS",
+            "zip_code": "66061",
+            "street_address": "18101 West 119th Street",
+            "lat_long": [
+                38.9110224,
+                -94.79514161108315
+            ]
+        },
+        {
+            "station_name": "Bowling Green  Supercharger",
+            "city": "Bowling Green",
+            "state": "KY",
+            "zip_code": "42104",
+            "street_address": "1676 Westpark Drive",
+            "lat_long": [
+                32.7757917668763,
+                -97.05573359173482
+            ]
+        },
+        {
+            "station_name": "Kuttawa Supercharger",
+            "city": "Kuttawa",
+            "state": "KY",
+            "zip_code": "42055-5954",
+            "street_address": "62 Days Inn Dr",
+            "lat_long": [
+                34.8267274,
+                -82.5698115
+            ]
+        },
+        {
+            "station_name": "Lexington Supercharger",
+            "city": "Lexington",
+            "state": "KY",
+            "zip_code": "40509",
+            "street_address": "2155 Paul Jones Way",
+            "lat_long": [
+                38.01871995,
+                -84.42214521401479
+            ]
+        },
+        {
+            "station_name": "London Supercharger",
+            "city": "London",
+            "state": "KY",
+            "zip_code": "40741",
+            "street_address": "140 Faith Assembly Church Road",
+            "lat_long": [
+                37.148815,
+                -84.112906
+            ]
+        },
+        {
+            "station_name": "Louisville Supercharger",
+            "city": "Louisville",
+            "state": "KY",
+            "zip_code": "40205",
+            "street_address": "2120 Gardiner Ln",
+            "lat_long": [
+                38.211669,
+                -85.673906
+            ]
+        },
+        {
+            "station_name": "Louisville, KY - Towne Center Drive Supercharger",
+            "city": "Louisville",
+            "state": "KY",
+            "zip_code": "40241",
+            "street_address": "4100 Towne Center Drive",
+            "lat_long": [
+                38.29909395,
+                -85.55381801459171
+            ]
+        },
+        {
+            "station_name": "Los Angeles, CA - Alameda Street Supercharger",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zip_code": "90021",
+            "street_address": "787 S. Alameda Street",
+            "lat_long": [
+                32.412549224489794,
+                -104.23177526530611
+            ]
+        },
+        {
+            "station_name": "Baton Rouge Supercharger",
+            "city": "Baton Rouge",
+            "state": "LA",
+            "zip_code": "70808",
+            "street_address": "3535 Perkins Road",
+            "lat_long": [
+                30.4229329,
+                -91.1539395
+            ]
+        },
+        {
+            "station_name": "Lafayette, LA Supercharger",
+            "city": "Lafayette",
+            "state": "LA",
+            "zip_code": "70501",
+            "street_address": "3225 Louisiana Avenue",
+            "lat_long": [
+                29.9437263,
+                -90.0983136
+            ]
+        },
+        {
+            "station_name": "Lake Charles Supercharger",
+            "city": "Lake Charles",
+            "state": "LA",
+            "zip_code": "70601",
+            "street_address": "1772 W Prien Lake Road",
+            "lat_long": [
+                30.19782962941257,
+                -93.24853342081344
+            ]
+        },
+        {
+            "station_name": "Monroe Supercharger",
+            "city": "Monroe",
+            "state": "LA",
+            "zip_code": "71203",
+            "street_address": "4919 Pecanland Mall Drive",
+            "lat_long": [
+                32.4954882937767,
+                -92.05811715228587
+            ]
+        },
+        {
+            "station_name": "Shreveport Supercharger",
+            "city": "Shreveport",
+            "state": "LA",
+            "zip_code": "71104",
+            "street_address": "1133 St. Vincent Ave.",
+            "lat_long": [
+                32.47727305,
+                -93.75307543270381
+            ]
+        },
+        {
+            "station_name": "Slidell Supercharger",
+            "city": "Slidell",
+            "state": "LA",
+            "zip_code": "70458",
+            "street_address": "1303 Town Center Pkwy",
+            "lat_long": [
+                30.265965087001565,
+                -89.76330976276384
+            ]
+        },
+        {
+            "station_name": "Augusta, ME Supercharger",
+            "city": "Augusta",
+            "state": "ME",
+            "zip_code": "4330",
+            "street_address": "197 Civic Center Drive",
+            "lat_long": [
+                44.347901,
+                -69.7860128
+            ]
+        },
+        {
+            "station_name": "Baileyville, ME Supercharger",
+            "city": "Baileyville",
+            "state": "ME",
+            "zip_code": "4694",
+            "street_address": "32 Houlton Rd",
+            "lat_long": [
+                45.1233661,
+                -67.3484374
+            ]
+        },
+        {
+            "station_name": "Brewer Supercharger",
+            "city": "Brewer",
+            "state": "ME",
+            "zip_code": "4412",
+            "street_address": "5 Walton Dr",
+            "lat_long": [
+                39.7570075,
+                -75.096181
+            ]
+        },
+        {
+            "station_name": "Medway, ME Supercharger",
+            "city": "Medway",
+            "state": "ME",
+            "zip_code": "04460",
+            "street_address": "1941 Medway Road",
+            "lat_long": [
+                42.4100162,
+                -73.9156618
+            ]
+        },
+        {
+            "station_name": "Portland, ME Supercharger",
+            "city": "Portland",
+            "state": "ME",
+            "zip_code": "04101",
+            "street_address": "295 Forest Avenue",
+            "lat_long": [
+                43.6635966,
+                -70.26853990826363
+            ]
+        },
+        {
+            "station_name": "Skowhegan, ME Supercharger",
+            "city": "Skowhegan",
+            "state": "ME",
+            "zip_code": "04976",
+            "street_address": "496 Madison Avenue",
+            "lat_long": [
+                40.6974314,
+                -73.6568282
+            ]
+        },
+        {
+            "station_name": "Aberdeen Supercharger",
+            "city": "Aberdeen",
+            "state": "MD",
+            "zip_code": "21001-0000",
+            "street_address": "I-95 Aberdeen, Maryland",
+            "lat_long": [
+                39.5120347,
+                -76.1643289
+            ]
+        },
+        {
+            "station_name": "Annapolis, MD Supercharger",
+            "city": "Annapolis",
+            "state": "MD",
+            "zip_code": "21401",
+            "street_address": "1906 Towne Centre Boulevard",
+            "lat_long": [
+                38.9810466,
+                -76.5405332
+            ]
+        },
+        {
+            "station_name": "Baltimore, MD - Boston Street Supercharger",
+            "city": "Baltimore",
+            "state": "MD",
+            "zip_code": "21224",
+            "street_address": "3501 Boston Street",
+            "lat_long": [
+                39.276696650000005,
+                -76.56709537708537
+            ]
+        },
+        {
+            "station_name": "Baltimore, MD - McHenry Row Supercharger",
+            "city": "Baltimore",
+            "state": "MD",
+            "zip_code": "21230",
+            "street_address": "McHenry Row",
+            "lat_long": [
+                39.2687458,
+                -76.59977791541971
+            ]
+        },
+        {
+            "station_name": "Easton, MD Supercharger",
+            "city": "Easton",
+            "state": "MD",
+            "zip_code": "No zipcode",
+            "street_address": "7655 Ocean Gateway",
+            "lat_long": [
+                38.7588623,
+                -76.06127432872267
+            ]
+        },
+        {
+            "station_name": "Frederick, MD Supercharger",
+            "city": "Frederick",
+            "state": "MD",
+            "zip_code": "21703",
+            "street_address": "5500 Buckeystown Pike",
+            "lat_long": [
+                39.382478649999996,
+                -77.40542381027998
+            ]
+        },
+        {
+            "station_name": "Gaithersburg, MD Supercharger",
+            "city": "Gaithersburg",
+            "state": "MD",
+            "zip_code": "20878-7306",
+            "street_address": "9811 Washingtonian Blvd",
+            "lat_long": [
+                39.1159716,
+                -77.1971755
+            ]
+        },
+        {
+            "station_name": "Grasonville Supercharger",
+            "city": "Grasonville",
+            "state": "MD",
+            "zip_code": "21638-1086",
+            "street_address": "108 Jackson Creek Road",
+            "lat_long": [
+                38.96560995,
+                -76.22055714999999
+            ]
+        },
+        {
+            "station_name": "Hanover, MD Supercharger",
+            "city": "Hanover",
+            "state": "MD",
+            "zip_code": "21076",
+            "street_address": "7795 Arundel Mills Boulevard",
+            "lat_long": [
+                39.1522396,
+                -76.74374148791566
+            ]
+        },
+        {
+            "station_name": "La Vale Supercharger",
+            "city": "La Vale",
+            "state": "MD",
+            "zip_code": "21502",
+            "street_address": "11601 Winchester Road",
+            "lat_long": [
+                39.635754,
+                -78.844364
+            ]
+        },
+        {
+            "station_name": "Laurel Supercharger",
+            "city": "Laurel",
+            "state": "MD",
+            "zip_code": "20707",
+            "street_address": "14700 Baltimore Ave",
+            "lat_long": [
+                39.0923559,
+                -76.8570668
+            ]
+        },
+        {
+            "station_name": "National Harbor, MD - Potomac Passage Supercharger",
+            "city": "Oxon Hill",
+            "state": "MD",
+            "zip_code": "20745",
+            "street_address": "150 Potomac Passage",
+            "lat_long": [
+                38.784906946737124,
+                -77.01515874736835
+            ]
+        },
+        {
+            "station_name": "North Bethesda, MD Supercharger",
+            "city": "Bethesda",
+            "state": "MD",
+            "zip_code": "20852",
+            "street_address": "11860 Trade Street",
+            "lat_long": [
+                -27.5210605,
+                153.2565235
+            ]
+        },
+        {
+            "station_name": "North East, MD Supercharger",
+            "city": "North East",
+            "state": "MD",
+            "zip_code": "21901-0000",
+            "street_address": "John F Kennedy Memorial Hwy",
+            "lat_long": [
+                39.6411395,
+                -75.8023282
+            ]
+        },
+        {
+            "station_name": "Ocean City, MD Supercharger",
+            "city": "Ocean City",
+            "state": "MD",
+            "zip_code": "21842",
+            "street_address": "12826A Ocean Gateway",
+            "lat_long": [
+                38.3353501,
+                -75.10472847355688
+            ]
+        },
+        {
+            "station_name": "Riverdale Park, MD Supercharger",
+            "city": "Riverdale Park",
+            "state": "MD",
+            "zip_code": "20737",
+            "street_address": "6221 Baltimore Avenue",
+            "lat_long": [
+                38.96351465342863,
+                -76.93940173273023
+            ]
+        },
+        {
+            "station_name": "Rockville, MD Supercharger",
+            "city": "Rockville",
+            "state": "MD",
+            "zip_code": "20850",
+            "street_address": "330 Hungerford Drive",
+            "lat_long": [
+                39.08793975637763,
+                -77.15074103489385
+            ]
+        },
+        {
+            "station_name": "Salisbury, MD Supercharger",
+            "city": "Salisbury",
+            "state": "MD",
+            "zip_code": "21801",
+            "street_address": "2300 North Salisbury Blvd.",
+            "lat_long": [
+                38.3987012,
+                -75.5670967
+            ]
+        },
+        {
+            "station_name": "White Marsh, MD Supercharger",
+            "city": "Rossville",
+            "state": "MD",
+            "zip_code": "21162",
+            "street_address": "5360 Nottingham Drive",
+            "lat_long": [
+                39.374325150000004,
+                -76.44320476618881
+            ]
+        },
+        {
+            "station_name": "Auburn Massachusetts Supercharger",
+            "city": "Auburn",
+            "state": "MA",
+            "zip_code": "1501",
+            "street_address": "385 Southbridge St.",
+            "lat_long": [
+                42.2023401,
+                -71.83443230860513
+            ]
+        },
+        {
+            "station_name": "Boston Supercharger",
+            "city": "Boston",
+            "state": "Ma",
+            "zip_code": "ssachusetts 02199",
+            "street_address": "800 Boylston Street",
+            "lat_long": [
+                42.3471718,
+                -71.08250628733232
+            ]
+        },
+        {
+            "station_name": "Boston, MA - Allstate Road Supercharger",
+            "city": "Boston",
+            "state": "MA",
+            "zip_code": "02125-1663",
+            "street_address": "101 Allstate Road",
+            "lat_long": [
+                42.3247874949495,
+                -71.06473745454545
+            ]
+        },
+        {
+            "station_name": "Boston, MA - Richard B. Ross Way Supercharger",
+            "city": "Boston",
+            "state": "MA",
+            "zip_code": "02215",
+            "street_address": "1341 Boylston Street",
+            "lat_long": [
+                42.3443088,
+                -71.0997963
+            ]
+        },
+        {
+            "station_name": "Braintree, MA Supercharger",
+            "city": "Braintree",
+            "state": "MA",
+            "zip_code": "02184",
+            "street_address": "250 Granite Street",
+            "lat_long": [
+                42.2207404,
+                -71.0253388
+            ]
+        },
+        {
+            "station_name": "Cambridge, MA Supercharger",
+            "city": "Cambridge",
+            "state": "MA",
+            "zip_code": "02141-2215",
+            "street_address": "100 Cambridgeside Place",
+            "lat_long": [
+                42.3677346,
+                -71.0761804
+            ]
+        },
+        {
+            "station_name": "Chestnut Hill, MA",
+            "city": "Chestnut Hill",
+            "state": "MA",
+            "zip_code": "02467",
+            "street_address": "55 Boylston Street",
+            "lat_long": [
+                41.6858292,
+                -70.91053470518952
+            ]
+        },
+        {
+            "station_name": "Dedham",
+            "city": "Dedham",
+            "state": "MA",
+            "zip_code": "02026",
+            "street_address": "840 Providence Highway",
+            "lat_long": [
+                42.2359433,
+                -71.17825560392322
+            ]
+        },
+        {
+            "station_name": "Hadley, MA Supercharger",
+            "city": "Hadley",
+            "state": "MA",
+            "zip_code": "1035",
+            "street_address": "25 Russell Street",
+            "lat_long": [
+                -34.90882745,
+                138.6794279408134
+            ]
+        },
+        {
+            "station_name": "Hudson, MA Supercharger",
+            "city": "Marlborough",
+            "state": "MA",
+            "zip_code": "1749",
+            "street_address": "2 Highland Common East",
+            "lat_long": [
+                42.392196,
+                -71.5967252
+            ]
+        },
+        {
+            "station_name": "Hyannis, MA Supercharger",
+            "city": "Hyannis",
+            "state": "MA",
+            "zip_code": "02601",
+            "street_address": "425 Attucks Lane",
+            "lat_long": [
+                41.675824899999995,
+                -70.30709354970004
+            ]
+        },
+        {
+            "station_name": "Leominster, MA Supercharger",
+            "city": "Leominster",
+            "state": "MA",
+            "zip_code": "01453-3333",
+            "street_address": "100 Commercial Road",
+            "lat_long": [
+                53.5905769,
+                -1.6464844209486809
+            ]
+        },
+        {
+            "station_name": "Mashpee, MA Supercharger",
+            "city": "Mashpee",
+            "state": "MA",
+            "zip_code": "2649",
+            "street_address": "22 Steeple Street",
+            "lat_long": [
+                42.42102965,
+                -71.01466581590682
+            ]
+        },
+        {
+            "station_name": "Orleans, MA Supercharger",
+            "city": "Orleans",
+            "state": "MA",
+            "zip_code": "02653",
+            "street_address": "2110 Cranberry Highway",
+            "lat_long": [
+                41.8009348778666,
+                -70.77361735251587
+            ]
+        },
+        {
+            "station_name": "Sagamore Beach, MA Supercharger",
+            "city": "Sagamore Beach",
+            "state": "MA",
+            "zip_code": "2562",
+            "street_address": "22 Meetinghouse Ln",
+            "lat_long": [
+                42.29261955,
+                -71.52936273302126
+            ]
+        },
+        {
+            "station_name": "Wareham, MA Supercharger",
+            "city": "Wareham",
+            "state": "MA",
+            "zip_code": "02571",
+            "street_address": "2421 Cranberry HIghway",
+            "lat_long": [
+                41.77253745,
+                -70.7438206388266
+            ]
+        },
+        {
+            "station_name": "West Springfield Supercharger",
+            "city": "West Springfield",
+            "state": "MA",
+            "zip_code": "1089",
+            "street_address": "935 Riverdale Street",
+            "lat_long": [
+                42.1295582,
+                -72.6217029
+            ]
+        },
+        {
+            "station_name": "Ann Arbor Supercharger",
+            "city": "Ann Arbor",
+            "state": "MI",
+            "zip_code": "48103",
+            "street_address": "3145 Ann Arbor-Saline Road",
+            "lat_long": [
+                42.2404127,
+                -83.7691344
+            ]
+        },
+        {
+            "station_name": "Auburn Hills, MI Supercharger",
+            "city": "Auburn Hills",
+            "state": "No state",
+            "zip_code": "48326-1309",
+            "street_address": "800 Brown Road",
+            "lat_long": [
+                43.2053195,
+                -77.56707026181843
+            ]
+        },
+        {
+            "station_name": "Bay City Supercharger",
+            "city": "Bay City",
+            "state": "MI",
+            "zip_code": "48706-9213",
+            "street_address": "2980 E Wilder Rd",
+            "lat_long": [
+                43.678036,
+                -72.300468
+            ]
+        },
+        {
+            "station_name": "Big Rapids, MI Supercharger",
+            "city": "Big Rapids",
+            "state": "MI",
+            "zip_code": "49307-8890",
+            "street_address": "15400 Waldron Way",
+            "lat_long": [
+                43.6908507,
+                -85.5168873571536
+            ]
+        },
+        {
+            "station_name": "Cadillac Supercharger",
+            "city": "Cadillac",
+            "state": "MI",
+            "zip_code": "49601",
+            "street_address": "8605 E. 34 Road",
+            "lat_long": [
+                44.2812442,
+                -85.4260514
+            ]
+        },
+        {
+            "station_name": "Clare, MI Supercharger",
+            "city": "Clare",
+            "state": "MI",
+            "zip_code": "48617",
+            "street_address": "604 North McEwan",
+            "lat_long": [
+                43.8203534,
+                -84.7667158
+            ]
+        },
+        {
+            "station_name": "Gaylord, MI Supercharger",
+            "city": "Gaylord",
+            "state": "MI",
+            "zip_code": "49735-7241",
+            "street_address": "250 Meijer Drive",
+            "lat_long": [
+                45.0256377,
+                -84.7222027
+            ]
+        },
+        {
+            "station_name": "Grand Rapids Supercharger",
+            "city": "Grand Rapids",
+            "state": "MI",
+            "zip_code": "49512",
+            "street_address": "5531 28th Street SE",
+            "lat_long": [
+                42.9138636,
+                -85.5318007
+            ]
+        },
+        {
+            "station_name": "Hudsonville, MI Supercharger",
+            "city": "Hudsonville",
+            "state": "MI",
+            "zip_code": "49426",
+            "street_address": "4075 32nd Avenue",
+            "lat_long": [
+                42.8428347,
+                -85.8636393
+            ]
+        },
+        {
+            "station_name": "Hudsonville, MI Supercharger #2",
+            "city": "Hudsonville",
+            "state": "MI",
+            "zip_code": "49426",
+            "street_address": "4075 32nd Avenue",
+            "lat_long": [
+                42.8428347,
+                -85.8636393
+            ]
+        },
+        {
+            "station_name": "Lansing Supercharger",
+            "city": "Lansing",
+            "state": "MI",
+            "zip_code": "48912",
+            "street_address": "2025 Showtime Drive",
+            "lat_long": [
+                42.7665478,
+                -84.5146911
+            ]
+        },
+        {
+            "station_name": "Livonia, MI Supercharger",
+            "city": "Livonia",
+            "state": "MI",
+            "zip_code": "48150-0000",
+            "street_address": "13070 Middlebelt Rd",
+            "lat_long": [
+                42.37961261190476,
+                -83.33364585000001
+            ]
+        },
+        {
+            "station_name": "Mackinaw City, MI Supercharger",
+            "city": "Mackinaw City",
+            "state": "MI",
+            "zip_code": "49701",
+            "street_address": "801 South Huron Avenue",
+            "lat_long": [
+                45.7722337,
+                -84.7264524
+            ]
+        },
+        {
+            "station_name": "Muskegon, MI Supercharger",
+            "city": "Muskegon",
+            "state": "MI",
+            "zip_code": "49444-6716",
+            "street_address": "5300 Harvey Street",
+            "lat_long": [
+                30.15097167334218,
+                -85.59391678521854
+            ]
+        },
+        {
+            "station_name": "Port Huron Supercharger",
+            "city": "Port Huron",
+            "state": "MI",
+            "zip_code": "48060",
+            "street_address": "500 Thomas Edison Parkway",
+            "lat_long": [
+                42.9987803,
+                -82.4289265
+            ]
+        },
+        {
+            "station_name": "Roseville, MI Supercharger",
+            "city": "Roseville",
+            "state": "MI",
+            "zip_code": "48066-1700",
+            "street_address": "30800 Little Mack Avenue",
+            "lat_long": [
+                42.523309850000004,
+                -82.9056769100557
+            ]
+        },
+        {
+            "station_name": "St. Joseph, MI Supercharger",
+            "city": "St. Joseph",
+            "state": "MI",
+            "zip_code": "49085",
+            "street_address": "3260 Niles Rd",
+            "lat_long": [
+                42.0566121,
+                -86.4574479
+            ]
+        },
+        {
+            "station_name": "Swartz Creek, MI Supercharger",
+            "city": "Swartz Creek",
+            "state": "MI",
+            "zip_code": "48473",
+            "street_address": "4141 Morrish Road",
+            "lat_long": [
+                42.9676083,
+                -83.8286612
+            ]
+        },
+        {
+            "station_name": "Traverse City Supercharger",
+            "city": "Traverse City",
+            "state": "Mi",
+            "zip_code": "chigan 49684",
+            "street_address": "3955 US Highway 31 South",
+            "lat_long": [
+                40.996615999999996,
+                -86.18419088888889
+            ]
+        },
+        {
+            "station_name": "Walker, MI Supercharger",
+            "city": "Walker",
+            "state": "MI",
+            "zip_code": "49544",
+            "street_address": "2988 Walker Avenue",
+            "lat_long": [
+                36.069083114583336,
+                -79.84037330729167
+            ]
+        },
+        {
+            "station_name": "Albert Lea, MN - Happy Trails Lane Superchargers",
+            "city": "Albert Lea",
+            "state": "MN",
+            "zip_code": "56007",
+            "street_address": "820 Happy Trails Lane",
+            "lat_long": [
+                35.3429279,
+                -78.5740584
+            ]
+        },
+        {
+            "station_name": "Baxter Supercharger",
+            "city": "Baxter",
+            "state": "MN",
+            "zip_code": "56425",
+            "street_address": "6967 Lake Forest Road",
+            "lat_long": [
+                41.6477996,
+                -72.9919483
+            ]
+        },
+        {
+            "station_name": "Clearwater Supercharger",
+            "city": "Clearwater",
+            "state": "MN",
+            "zip_code": "55320",
+            "street_address": "950 MN-24",
+            "lat_long": [
+                45.4125806,
+                -94.0549322
+            ]
+        },
+        {
+            "station_name": "Hinckley Supercharger",
+            "city": "Hinckley",
+            "state": "MN",
+            "zip_code": "55037",
+            "street_address": "404 Fire Monument Road",
+            "lat_long": [
+                46.0102726,
+                -92.9304521
+            ]
+        },
+        {
+            "station_name": "Minneapolis, MN Supercharger",
+            "city": "Minneapolis",
+            "state": "MN",
+            "zip_code": "55413",
+            "street_address": "1650 New Brighton Boulevard",
+            "lat_long": [
+                45.0056527,
+                -93.2297557
+            ]
+        },
+        {
+            "station_name": "Minnetonka, MN Supercharger",
+            "city": "Minnetonka",
+            "state": "MN",
+            "zip_code": "55305",
+            "street_address": "13201 Ridgedale Drive",
+            "lat_long": [
+                32.95486555774846,
+                -117.05864334610015
+            ]
+        },
+        {
+            "station_name": "Robbinsdale, MN Supercharger",
+            "city": "Robbinsdale",
+            "state": "MN",
+            "zip_code": "55422",
+            "street_address": "3501 West Broadway Avenue",
+            "lat_long": [
+                37.301801499999996,
+                -77.32054337953514
+            ]
+        },
+        {
+            "station_name": "Rochester, MN Supercharger",
+            "city": "Rochester",
+            "state": "MN",
+            "zip_code": "55902-2183",
+            "street_address": "500 Crossroads Dr",
+            "lat_long": [
+                36.46222034378522,
+                -81.79892081341357
+            ]
+        },
+        {
+            "station_name": "St. Louis Park, MN Supercharger",
+            "city": "St. Louis Park",
+            "state": "MN",
+            "zip_code": "55416",
+            "street_address": "3601 Highway 100 South",
+            "lat_long": [
+                51.5406241,
+                -2.4056661
+            ]
+        },
+        {
+            "station_name": "Worthington, MN Supercharger",
+            "city": "Worthington",
+            "state": "MN",
+            "zip_code": "56187",
+            "street_address": "1290 Ryans Rd",
+            "lat_long": [
+                43.63439095,
+                -95.59550642245921
+            ]
+        },
+        {
+            "station_name": "Hattiesburg, MS Supercharger",
+            "city": "Hattiesburg",
+            "state": "MS",
+            "zip_code": "39402",
+            "street_address": "6143 US Highway 98",
+            "lat_long": [
+                30.406828,
+                -87.645908
+            ]
+        },
+        {
+            "station_name": "McComb, MS",
+            "city": "McComb",
+            "state": "MS",
+            "zip_code": "39648",
+            "street_address": "1432 Delaware Avenue",
+            "lat_long": [
+                39.96589011243217,
+                -74.1363826882359
+            ]
+        },
+        {
+            "station_name": "Meridian Supercharger",
+            "city": "Meridian",
+            "state": "MS",
+            "zip_code": "39301",
+            "street_address": "1210 Bonita Lakes Drive",
+            "lat_long": [
+                32.3615947,
+                -88.6709787
+            ]
+        },
+        {
+            "station_name": "Pearl, MS Supercharger",
+            "city": "Pearl",
+            "state": "MS",
+            "zip_code": "39208",
+            "street_address": "200 Bass Pro Drive",
+            "lat_long": [
+                41.1782651,
+                -73.1776034
+            ]
+        },
+        {
+            "station_name": "Tupelo Supercharger",
+            "city": "Tupelo",
+            "state": "MS",
+            "zip_code": "38804-0902",
+            "street_address": "1001 Barnes Crossing Rd",
+            "lat_long": [
+                34.30817,
+                -88.7021056
+            ]
+        },
+        {
+            "station_name": "Bethany, MO Supercharger",
+            "city": "Bethany",
+            "state": "MO",
+            "zip_code": "66424",
+            "street_address": "3807 Miller Street",
+            "lat_long": [
+                42.39060675510204,
+                -83.04435248979593
+            ]
+        },
+        {
+            "station_name": "Columbia Supercharger",
+            "city": "Columbia",
+            "state": "MO",
+            "zip_code": "65201",
+            "street_address": "915 Port Way",
+            "lat_long": [
+                38.958148800000004,
+                -92.25252101119463
+            ]
+        },
+        {
+            "station_name": "Joplin Supercharger",
+            "city": "Joplin",
+            "state": "MO",
+            "zip_code": "64804-4447",
+            "street_address": "3615 Range Line Rd.",
+            "lat_long": [
+                40.28792319887403,
+                -82.47436022612463
+            ]
+        },
+        {
+            "station_name": "Kansas City, MO Supercharger",
+            "city": "Kansas City",
+            "state": "MO",
+            "zip_code": "64151",
+            "street_address": "8301 North Saint Clair Avenue",
+            "lat_long": [
+                39.245026550000006,
+                -94.64576097585828
+            ]
+        },
+        {
+            "station_name": "Miner Supercharger",
+            "city": "Miner",
+            "state": "MO",
+            "zip_code": "63801",
+            "street_address": "2612 E Malone Ave.",
+            "lat_long": [
+                36.89070630206746,
+                -89.54004128414289
+            ]
+        },
+        {
+            "station_name": "Osage Beach Supercharger",
+            "city": "Osage Beach",
+            "state": "MO",
+            "zip_code": "65065-3169",
+            "street_address": "929 Hwy D",
+            "lat_long": [
+                39.6094132,
+                -75.8846703
+            ]
+        },
+        {
+            "station_name": "Rolla Supercharger",
+            "city": "Rolla",
+            "state": "MO",
+            "zip_code": "65401",
+            "street_address": "1705 Martin Springs Drive",
+            "lat_long": [
+                37.93994075,
+                -91.80202959399593
+            ]
+        },
+        {
+            "station_name": "Springfield, MO Supercharger",
+            "city": "Springfield",
+            "state": "MO",
+            "zip_code": "65803-4414",
+            "street_address": "3050 N. Kentwood Ave.",
+            "lat_long": [
+                37.251821750000005,
+                -93.26645367766996
+            ]
+        },
+        {
+            "station_name": "St Joseph, MO Supercharger",
+            "city": "St Joseph",
+            "state": "MO",
+            "zip_code": "64506",
+            "street_address": "201 North Belt Highway",
+            "lat_long": [
+                39.7675031,
+                -94.80433091456285
+            ]
+        },
+        {
+            "station_name": "St. Charles Supercharger",
+            "city": "St. Charles",
+            "state": "MO",
+            "zip_code": "63303",
+            "street_address": "2021 Zumbehl Road",
+            "lat_long": [
+                38.7822218,
+                -90.5342107
+            ]
+        },
+        {
+            "station_name": "St. Charles, MO - Beale Street Supercharger",
+            "city": "St. Charles",
+            "state": "MO",
+            "zip_code": "63303",
+            "street_address": "1650 Beale Street",
+            "lat_long": [
+                38.7647289,
+                -90.4942167
+            ]
+        },
+        {
+            "station_name": "Big Sky, MT Supercharger",
+            "city": "Big Sky",
+            "state": "MT",
+            "zip_code": "59716",
+            "street_address": "25 Town Center Avenue",
+            "lat_long": [
+                45.2603719,
+                -111.3080641
+            ]
+        },
+        {
+            "station_name": "Big Timber, MT Supercharger",
+            "city": "Big Timber",
+            "state": "MT",
+            "zip_code": "59011",
+            "street_address": "228 Big Timber Loop Rd",
+            "lat_long": [
+                45.8362306,
+                -109.9427373
+            ]
+        },
+        {
+            "station_name": "Billings, MT Supercharger",
+            "city": "Billings",
+            "state": "MT",
+            "zip_code": "59102",
+            "street_address": "1801 Majestic Ln",
+            "lat_long": [
+                45.73440115,
+                -108.60412811623385
+            ]
+        },
+        {
+            "station_name": "Bozeman, MT Supercharger",
+            "city": "Bozeman",
+            "state": "MT",
+            "zip_code": "59715",
+            "street_address": "2023 Commerce Way",
+            "lat_long": [
+                45.698761687413935,
+                -111.06347401710023
+            ]
+        },
+        {
+            "station_name": "Butte Supercharger",
+            "city": "Butte",
+            "state": "MT",
+            "zip_code": "59701",
+            "street_address": "2900 Harrison Ave.",
+            "lat_long": [
+                38.93091475,
+                -95.26866389719139
+            ]
+        },
+        {
+            "station_name": "Glendive, MT Supercharger",
+            "city": "Glendive",
+            "state": "MT",
+            "zip_code": "59330",
+            "street_address": "1919 North Merrill Avenue",
+            "lat_long": [
+                42.5296196,
+                -96.4913335
+            ]
+        },
+        {
+            "station_name": "Great Falls, MT Supercharger",
+            "city": "Great Falls",
+            "state": "MT",
+            "zip_code": "59404",
+            "street_address": "2301 14th St SW",
+            "lat_long": [
+                27.577798,
+                -80.409606
+            ]
+        },
+        {
+            "station_name": "Helena, MT Supercharger",
+            "city": "Helena",
+            "state": "MT",
+            "zip_code": "59602",
+            "street_address": "3120 Queen Anne Street",
+            "lat_long": [
+                39.2967291,
+                -76.7317222
+            ]
+        },
+        {
+            "station_name": "Lima, MT Supercharger",
+            "city": "Lima",
+            "state": "MT",
+            "zip_code": "59739",
+            "street_address": "108 Bailey Street",
+            "lat_long": [
+                -38.19512315,
+                144.3475724032961
+            ]
+        },
+        {
+            "station_name": "Miles City, MT Supercharger",
+            "city": "Miles City",
+            "state": "MT",
+            "zip_code": "59301",
+            "street_address": "1815 South Haynes Avenue",
+            "lat_long": [
+                46.4015529,
+                -105.8226406
+            ]
+        },
+        {
+            "station_name": "Missoula Supercharger",
+            "city": "Missoula",
+            "state": "MT",
+            "zip_code": "59808",
+            "street_address": "5280 Grant Creek Rd",
+            "lat_long": [
+                46.9150275,
+                -114.03333350847458
+            ]
+        },
+        {
+            "station_name": "Superior Supercharger",
+            "city": "Superior",
+            "state": "MT",
+            "zip_code": "59872",
+            "street_address": "205 4th Ave. East",
+            "lat_long": [
+                47.0448864,
+                -122.9000595
+            ]
+        },
+        {
+            "station_name": "Gothenburg Supercharger",
+            "city": "Gothenburg",
+            "state": "NE",
+            "zip_code": "69138-2610",
+            "street_address": "318 Platte River Road",
+            "lat_long": [
+                39.363288587946805,
+                -105.16625634482645
+            ]
+        },
+        {
+            "station_name": "Ogallala Supercharger",
+            "city": "Ogallala",
+            "state": "NE",
+            "zip_code": "69153-3118",
+            "street_address": "501 Stagecoach Trail",
+            "lat_long": [
+                41.11606,
+                -101.7094121
+            ]
+        },
+        {
+            "station_name": "Sidney Supercharger",
+            "city": "Sidney",
+            "state": "NE",
+            "zip_code": "69162-3047",
+            "street_address": "645 Cabela Drive",
+            "lat_long": [
+                41.11465397967621,
+                -102.96017821562411
+            ]
+        },
+        {
+            "station_name": "Elko Supercharger",
+            "city": "Elko",
+            "state": "NV",
+            "zip_code": "89801",
+            "street_address": "2755 Mountain City Highway",
+            "lat_long": [
+                40.84268525834083,
+                -115.81822200872651
+            ]
+        },
+        {
+            "station_name": "Gardnerville Supercharger",
+            "city": "Gardnerville",
+            "state": "NV",
+            "zip_code": "89410",
+            "street_address": "1979 US 395",
+            "lat_long": [
+                47.63693266087563,
+                -117.49031432791911
+            ]
+        },
+        {
+            "station_name": "Henderson, NV Supercharger",
+            "city": "Henderson",
+            "state": "NV",
+            "zip_code": "89002-9346",
+            "street_address": "2800 S Boulder Hwy",
+            "lat_long": [
+                35.9680339,
+                -114.9019912
+            ]
+        },
+        {
+            "station_name": "Incline Village, NV Supercharger",
+            "city": "Incline Village",
+            "state": "NV",
+            "zip_code": "89451",
+            "street_address": "930 Tahoe Boulevard",
+            "lat_long": [
+                39.249009650000005,
+                -119.95628013853926
+            ]
+        },
+        {
+            "station_name": "Las Vegas Blvd South Supercharger",
+            "city": "Las Vegas",
+            "state": "NV",
+            "zip_code": "89119-3240",
+            "street_address": "6509 S Las Vegas Blvd",
+            "lat_long": [
+                36.06861731044159,
+                -115.17248673170508
+            ]
+        },
+        {
+            "station_name": "Las Vegas, NV - Grand Central Parkway Supercharger",
+            "city": "Las Vegas",
+            "state": "NV",
+            "zip_code": "89106",
+            "street_address": "875 South Grand Central Parkway",
+            "lat_long": [
+                36.1636903,
+                -115.15832052176043
+            ]
+        },
+        {
+            "station_name": "Las Vegas, NV - Linq High Roller Supercharger",
+            "city": "Las Vegas",
+            "state": "NV",
+            "zip_code": "89109",
+            "street_address": "3545 South Las Vegas Boulevard",
+            "lat_long": [
+                36.117373,
+                -115.1717982
+            ]
+        },
+        {
+            "station_name": "Las Vegas, NV - Tivoli Village Supercharger",
+            "city": "Las Vegas",
+            "state": "NV",
+            "zip_code": "89145",
+            "street_address": "400 South Rampart Boulevard",
+            "lat_long": [
+                34.064773,
+                -118.279712
+            ]
+        },
+        {
+            "station_name": "Las Vegas, NV Supercharger",
+            "city": "Las Vegas",
+            "state": "NV",
+            "zip_code": "89101",
+            "street_address": "701 Bridger Ave",
+            "lat_long": [
+                36.165944,
+                -115.139714
+            ]
+        },
+        {
+            "station_name": "Primm, NV Supercharger",
+            "city": "Primm",
+            "state": "NV",
+            "zip_code": "89019",
+            "street_address": "31900 Las Vegas Blvd S",
+            "lat_long": [
+                35.6149201,
+                -115.3842449
+            ]
+        },
+        {
+            "station_name": "Reno, NV - North Sierra Street Supercharger",
+            "city": "Reno",
+            "state": "NV",
+            "zip_code": "89503",
+            "street_address": "375 N Sierra Street",
+            "lat_long": [
+                39.52931234023749,
+                -119.81554238739052
+            ]
+        },
+        {
+            "station_name": "West Wendover Supercharger",
+            "city": "West Wendover",
+            "state": "NV",
+            "zip_code": "89883",
+            "street_address": "810 W Wendover Blvd.",
+            "lat_long": [
+                43.1773554,
+                -86.2262929
+            ]
+        },
+        {
+            "station_name": "Winnemucca, NV Supercharger",
+            "city": "Winnemucca",
+            "state": "NV",
+            "zip_code": "89446",
+            "street_address": "1985 W Winnemucca Blvd.",
+            "lat_long": [
+                40.9584071,
+                -117.7470753
+            ]
+        },
+        {
+            "station_name": "Hooksett (Northbound) Supercharger",
+            "city": "Hooksett",
+            "state": "NH",
+            "zip_code": "3106",
+            "street_address": "Northbound I-93",
+            "lat_long": [
+                40.4730675,
+                -74.4087419
+            ]
+        },
+        {
+            "station_name": "Hooksett (Southbound) Supercharger",
+            "city": "Hooksett",
+            "state": "NH",
+            "zip_code": "3106",
+            "street_address": "Southbound I-93",
+            "lat_long": [
+                43.7375032,
+                -111.2784062
+            ]
+        },
+        {
+            "station_name": "Lincoln Supercharger",
+            "city": "Lincoln",
+            "state": "NH",
+            "zip_code": "3251",
+            "street_address": "22 South Mountain",
+            "lat_long": [
+                39.8464817,
+                -77.4877663
+            ]
+        },
+        {
+            "station_name": "Seabrook Supercharger",
+            "city": "Seabrook",
+            "state": "NH",
+            "zip_code": "3874",
+            "street_address": "700 Lafayette Road",
+            "lat_long": [
+                42.893053,
+                -70.8685803
+            ]
+        },
+        {
+            "station_name": "West Lebanon Supercharger",
+            "city": "West Lebanon",
+            "state": "NH",
+            "zip_code": "3784",
+            "street_address": "285 N. Plainfield Road",
+            "lat_long": [
+                42.101091,
+                -70.730548
+            ]
+        },
+        {
+            "station_name": "Barnegat, NJ Supercharger",
+            "city": "Barnegat",
+            "state": "NJ",
+            "zip_code": "8005",
+            "street_address": "945 West Bay Avenue",
+            "lat_long": [
+                39.76011146153846,
+                -74.25489676923077
+            ]
+        },
+        {
+            "station_name": "Basking Ridge, NJ Supercharger",
+            "city": "Basking Ridge",
+            "state": "NJ",
+            "zip_code": "7920",
+            "street_address": "415 King George Road",
+            "lat_long": [
+                43.1917147942405,
+                -80.28216048516806
+            ]
+        },
+        {
+            "station_name": "Boonton, NJ Supercharger",
+            "city": "Boonton",
+            "state": "NJ",
+            "zip_code": "07005",
+            "street_address": "550 Myrtle Avenue",
+            "lat_long": [
+                40.6934615,
+                -73.96247394519455
+            ]
+        },
+        {
+            "station_name": "Cape May Court House, NJ Supercharger",
+            "city": "Cape May",
+            "state": "NJ",
+            "zip_code": "8210",
+            "street_address": "11 Court House South Dennis Road",
+            "lat_long": [
+                39.08976436734694,
+                -74.81866522448979
+            ]
+        },
+        {
+            "station_name": "Deptford, NJ Supercharger",
+            "city": "Deptford",
+            "state": "NJ",
+            "zip_code": "08096",
+            "street_address": "1750 Deptford Center Road",
+            "lat_long": [
+                39.82831371428571,
+                -75.09683079591836
+            ]
+        },
+        {
+            "station_name": "East Brunswick, NJ - State Route 18 Supercharger",
+            "city": "East Brunswick",
+            "state": "NJ",
+            "zip_code": "8816",
+            "street_address": "755 State Route 18",
+            "lat_long": [
+                37.58942877139208,
+                -113.6895232145014
+            ]
+        },
+        {
+            "station_name": "Edison, NJ Supercharger",
+            "city": "Edison",
+            "state": "NJ",
+            "zip_code": "8837",
+            "street_address": "55 Parsonage Rd.",
+            "lat_long": [
+                51.5235864,
+                0.2064915750866858
+            ]
+        },
+        {
+            "station_name": "Egg Harbor Township Supercharger",
+            "city": "Egg Harbor Township",
+            "state": "NJ",
+            "zip_code": "8234",
+            "street_address": "3121 Fire Road",
+            "lat_long": [
+                39.392755550000004,
+                -74.56261467150577
+            ]
+        },
+        {
+            "station_name": "Elizabeth, NJ Supercharger",
+            "city": "Elizabeth",
+            "state": "NJ",
+            "zip_code": "07201",
+            "street_address": "651 Kapkowski Road",
+            "lat_long": [
+                40.6601329,
+                -74.1734442
+            ]
+        },
+        {
+            "station_name": "Freehold, NJ Supercharger",
+            "city": "Freehold",
+            "state": "NJ",
+            "zip_code": "07728",
+            "street_address": "909 Route 33",
+            "lat_long": [
+                40.231926885589175,
+                -74.21286276522456
+            ]
+        },
+        {
+            "station_name": "Hamilton Township Supercharger",
+            "city": "Hamilton",
+            "state": "NJ",
+            "zip_code": "8691",
+            "street_address": "425 Market Place Blvd",
+            "lat_long": [
+                40.4590497,
+                -80.1839378
+            ]
+        },
+        {
+            "station_name": "Jersey City, NJ - Mall Drive West Supercharger",
+            "city": "Jersey City",
+            "state": "NJ",
+            "zip_code": "07310-1615",
+            "street_address": "30 Mall Drive West",
+            "lat_long": [
+                40.7272065,
+                -74.0384186
+            ]
+        },
+        {
+            "station_name": "Jersey City, NJ \u2013 1st Street Supercharger",
+            "city": "Jersey City",
+            "state": "NJ",
+            "zip_code": "07302",
+            "street_address": "160 First Street",
+            "lat_long": [
+                42.45729045,
+                -71.0526960926571
+            ]
+        },
+        {
+            "station_name": "Kearny, NJ Supercharger",
+            "city": "Kearny",
+            "state": "NJ",
+            "zip_code": "7032",
+            "street_address": "200 Harrison Avenue",
+            "lat_long": [
+                30.15420545,
+                -85.66112586334957
+            ]
+        },
+        {
+            "station_name": "Maple Shade, NJ Supercharger",
+            "city": "Maple Shade",
+            "state": "NJ",
+            "zip_code": "08052",
+            "street_address": "2801 Route 73",
+            "lat_long": [
+                49.2566129,
+                13.3834069
+            ]
+        },
+        {
+            "station_name": "Marlton, NJ Supercharger",
+            "city": "Marlton",
+            "state": "NJ",
+            "zip_code": "08053",
+            "street_address": "500 NJ-73",
+            "lat_long": [
+                39.87901455,
+                -74.9210923076727
+            ]
+        },
+        {
+            "station_name": "Paramus-Route 17",
+            "city": "Paramus",
+            "state": "NJ",
+            "zip_code": "07652",
+            "street_address": "530 Route 17 N",
+            "lat_long": [
+                47.17747318823122,
+                -67.86781428558085
+            ]
+        },
+        {
+            "station_name": "Paulsboro, NJ Supercharger",
+            "city": "Paulsboro",
+            "state": "NJ",
+            "zip_code": "8066",
+            "street_address": "51 Berkley Road",
+            "lat_long": [
+                29.3534188,
+                -81.0749928
+            ]
+        },
+        {
+            "station_name": "Robbinsville, NJ Supercharger",
+            "city": "Robbinsville",
+            "state": "NJ",
+            "zip_code": "8691",
+            "street_address": "315 Robbinsville-Allentown Road",
+            "lat_long": [
+                40.19407665,
+                -74.59507020000001
+            ]
+        },
+        {
+            "station_name": "Rockaway, NJ Supercharger",
+            "city": "Rockaway",
+            "state": "NJ",
+            "zip_code": "7866",
+            "street_address": "395 Mount Hope Avenue",
+            "lat_long": [
+                40.9073615,
+                -74.5587614
+            ]
+        },
+        {
+            "station_name": "Springfield, NJ - Cleveland Place Supercharger",
+            "city": "Springfield",
+            "state": "NJ",
+            "zip_code": "07081",
+            "street_address": "2017 Cleveland Place",
+            "lat_long": [
+                -34.0088917,
+                151.0516723
+            ]
+        },
+        {
+            "station_name": "Tinton Falls Supercharger",
+            "city": "Tinton Falls",
+            "state": "NJ",
+            "zip_code": "7753",
+            "street_address": "1 Premium Outlets Blvd",
+            "lat_long": [
+                42.04014445,
+                -71.35323664044793
+            ]
+        },
+        {
+            "station_name": "Woodbridge Township, NJ Supercharger",
+            "city": "Woodbridge",
+            "state": "NJ",
+            "zip_code": "08857-0000",
+            "street_address": "440 King Georges Road",
+            "lat_long": [
+                53.4741884,
+                -1.0822622
+            ]
+        },
+        {
+            "station_name": "Albuquerque Supercharger",
+            "city": "Albuquerque",
+            "state": "NM",
+            "zip_code": "87107",
+            "street_address": "2600 Menaul Blvd NE",
+            "lat_long": [
+                35.108746749999995,
+                -106.61322507481802
+            ]
+        },
+        {
+            "station_name": "Deming, NM Supercharger",
+            "city": "Deming",
+            "state": "No state",
+            "zip_code": "88030",
+            "street_address": "1695  US-180",
+            "lat_long": [
+                32.8040729512678,
+                -98.13318066783881
+            ]
+        },
+        {
+            "station_name": "Farmington, NM Supercharger",
+            "city": "Farmington",
+            "state": "NM",
+            "zip_code": "87402-8302",
+            "street_address": "4200 Sierra Vista Drive",
+            "lat_long": [
+                36.76692995,
+                -108.14456795366016
+            ]
+        },
+        {
+            "station_name": "Gallup, NM Supercharger",
+            "city": "Gallup",
+            "state": "NM",
+            "zip_code": "87301",
+            "street_address": "111 Twin Buttes Rd",
+            "lat_long": [
+                35.5052943,
+                -108.82876637807215
+            ]
+        },
+        {
+            "station_name": "Santa Fe Supercharger",
+            "city": "Santa Fe",
+            "state": "NM",
+            "zip_code": "87507-4415",
+            "street_address": "8380 Cerrillos Rd",
+            "lat_long": [
+                35.6101967,
+                -106.03203794243792
+            ]
+        },
+        {
+            "station_name": "Santa Rosa Supercharger",
+            "city": "Santa Rosa",
+            "state": "NM",
+            "zip_code": "88435",
+            "street_address": "2516 Historic Route 66",
+            "lat_long": [
+                34.9470185,
+                -104.6480665
+            ]
+        },
+        {
+            "station_name": "Albany, NY Supercharger",
+            "city": "Albany",
+            "state": "NY",
+            "zip_code": "12205",
+            "street_address": "131 Colonie Center",
+            "lat_long": [
+                42.7101508,
+                -73.81605182242373
+            ]
+        }
+    ]
+}

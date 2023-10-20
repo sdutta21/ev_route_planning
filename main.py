@@ -1,16 +1,20 @@
 from dataclasses import dataclass
 from pathlib import Path
 import csv
-from typing import Tuple, Dict
+from typing import Tuple, Dict, List
 import json
 
 from geopy.geocoders import Nominatim
 # https://geopy.readthedocs.io/en/stable/#module-geopy.distance
-from geopy.distance import geodesic
+from geopy.distance import distance
 from geopy.exc import GeocoderUnavailable
 
-GEOLOCATOR = Nominatim(user_agent="supercharger_locator")
+import matplotlib.pyplot as plt
+import networkx as nx
 
+GEOLOCATOR = Nominatim(user_agent="supercharger_locator")
+# https://www.tesla.com/model3
+TESLA_RANGE = 535   # kilometers
 
 @dataclass
 class SuperchargerData:
@@ -62,5 +66,49 @@ def convert_csv_to_json():
         json.dump(json_data, file, indent=4)
 
 
+def check_lat_long(lat_long: List[float]):
+    return lat_long[0] > 20 and lat_long[0] < 50 and lat_long[1] < -60 and lat_long[1] > -130
+
+
+def construct_graph():
+    g = nx.Graph()
+
+    with open(Path(__file__).parent / "data/tesla_superchargers.json", "r") as file:
+        data = json.load(file)["data"]
+    for i in range(len(data)):
+        if check_lat_long(data[i]["lat_long"]):
+            g.add_node(data[i]["station_name"], lat_long=(data[i]["lat_long"][1], data[i]["lat_long"][0]))
+    for i in range(len(data)):
+        for j in range(i+1, len(data)):
+            station_1 = data[i]
+            station_2 = data[j]
+            if not check_lat_long(station_1["lat_long"]) or not check_lat_long(station_2["lat_long"]):
+                continue
+            
+            d = int(distance(station_1["lat_long"], station_2["lat_long"]).km)
+            if d < TESLA_RANGE:
+                g.add_edge(station_1["station_name"], station_2["station_name"], weight=d)
+
+    edges = [(u, v) for (u, v, d) in g.edges(data=True)]
+        
+    pos = nx.get_node_attributes(g, "lat_long")
+        
+    # nodes
+    nx.draw_networkx_nodes(g, pos, node_size=7)
+
+    # edges
+    nx.draw_networkx_edges(
+        g, pos, edgelist=edges, width=1, alpha=0.5, edge_color="b", style="dashed"
+    )
+
+    ax = plt.gca()
+    ax.margins(0.08)
+    plt.axis("off")
+    plt.tight_layout()
+    plt.show()
+            
+
+
 if __name__ == "__main__":
-    convert_csv_to_json()
+    # convert_csv_to_json()
+    construct_graph()

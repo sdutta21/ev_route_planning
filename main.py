@@ -150,6 +150,7 @@ def draw_graph(g: nx.Graph):
     ax.margins(0.08)
     plt.axis("off")
     plt.tight_layout()
+    plt.title("US Tesla Supercharger Network")
     plt.show()
 
 
@@ -162,7 +163,8 @@ def draw_shortest_path(g: nx.Graph, path_coords: np.ndarray, path_len: float, al
     ax = plt.gca()
     ax.margins(0.08)
     plt.axis("off")
-    plt.title(f"{alg_name} Shortest Path (dist: {path_len} km)")
+    plt.suptitle(f"Shortest Path from Palo Alto to Boston ({alg_name})")
+    plt.title(f"Distance: {path_len} km", fontsize=10)
     plt.tight_layout()
     plt.show()
 

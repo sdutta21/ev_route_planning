@@ -59,10 +59,11 @@ class SuperchargerData:
         return dict
 
 
-def convert_csv_to_json():
-    json_data = {"charger_loc_data": [], "dist_pairs": []}
+def query_positions():
+    json_data = {"charger_loc_data": []}
+
     data_headers = None
-    counter = 0
+
     with open(SUPERCHARGER_RAW_CSV_DATA, "r") as file:
         csvreader = csv.reader(file, delimiter=",")
         for row in csvreader:
@@ -85,12 +86,28 @@ def convert_csv_to_json():
                     json_data["charger_loc_data"].append(charger_data.as_dict)
             except (AttributeError, GeocoderUnavailable):
                 continue
-            print(counter)
-            counter += 1
+
+    with open(SUPERCHARGER_LOC_DATA, "w") as file:
+        json.dump(json_data, file, indent=4)
+
+
+def compute_distances():
+    with open(SUPERCHARGER_LOC_DATA, "r") as file:
+        json_data = json.load(file)
+
+    json_data["dist_pairs"] = []
+    json_data["dist_to_goal"] = {}
+
+    for loc in json_data["charger_loc_data"]:
+        if loc["charging_station_name"] == END_STATION:
+            dest_lat_long = loc["lat_long"]
+            break
+    else:
+        raise ValueError(f"Could not find Lat-Long data for {END_STATION}")
 
     for i in range(len(json_data["charger_loc_data"])):
+        station_1 = json_data["charger_loc_data"][i]
         for j in range(i + 1, len(json_data["charger_loc_data"])):
-            station_1 = json_data["charger_loc_data"][i]
             station_2 = json_data["charger_loc_data"][j]
 
             d = int(distance(station_1["lat_long"], station_2["lat_long"]).km)
@@ -103,8 +120,18 @@ def convert_csv_to_json():
                     }
                 )
 
+        json_data["dist_to_goal"][station_1["charging_station_name"]] = int(
+            distance(station_1["lat_long"], dest_lat_long).km
+        )
+        print(f"{i} / {len(json_data['charger_loc_data'])}")
+
     with open(SUPERCHARGER_LOC_DATA, "w") as file:
         json.dump(json_data, file, indent=4)
+
+
+def convert_csv_to_json():
+    query_positions()
+    compute_distances()
 
 
 def draw_graph(g: nx.Graph):
@@ -162,8 +189,34 @@ def calc_simple_shortest_path(
     draw_shortest_path(g, path_locs, shortest_path_len, algorithm_name)
 
 
-def calc_shortest_path_with_heuristic():
-    pass
+def calc_shortest_path_with_heuristic(
+    g: nx.Graph,
+    loc_lookup: Dict[str, List[float]],
+    dist_lookup: Dict[str, int],
+):
+    def astar_heuristic(node_1: str, node_2: str):
+        if node_2 != END_STATION:
+            raise ValueError(f"Node 2 should always be {END_STATION}")
+        return dist_lookup[node_1]
+
+    shortest_path = nx.astar_path(
+        g,
+        source=START_STATION,
+        target=END_STATION,
+        heuristic=astar_heuristic,
+        weight="weight",
+    )
+    shortest_path_len = nx.astar_path_length(
+        g,
+        source=START_STATION,
+        target=END_STATION,
+        heuristic=astar_heuristic,
+        weight="weight",
+    )
+
+    path_locs = np.array([loc_lookup[station_name] for station_name in shortest_path])
+
+    draw_shortest_path(g, path_locs, shortest_path_len, "A*")
 
 
 def analyze_graph():
@@ -173,6 +226,7 @@ def analyze_graph():
         data = json.load(file)
         charger_loc_data = data["charger_loc_data"]
         dist_data = data["dist_pairs"]
+        dist_to_goal_lookup = data["dist_to_goal"]
     for i in range(len(charger_loc_data)):
         g.add_node(
             charger_loc_data[i]["charging_station_name"],
@@ -196,6 +250,7 @@ def analyze_graph():
 
     calc_simple_shortest_path(g, "Dijkstra", loc_lookup)
     calc_simple_shortest_path(g, "Bellman-Ford", loc_lookup)
+    calc_shortest_path_with_heuristic(g, loc_lookup, dist_to_goal_lookup)
 
 
 if __name__ == "__main__":
